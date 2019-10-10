@@ -3,3 +3,6 @@ FROM Semester AS s,(SELECT netid
 FROM completed
 WHERE pid = 'Data' and type = 'Data Science Concentration') AS n
 WHERE s.netid = n.netid;
+
+INSERT INTO student
+VALUES ('jo99', 'Aspiring engineer interested in the intersection of business and technology');
