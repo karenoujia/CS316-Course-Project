@@ -8,7 +8,9 @@ WHERE s.netid = n.netid;
 INSERT INTO student
 VALUES ('jo99', 'Aspiring engineer interested in the intersection of business and technology');
 
-UPDATE completed
-SET type = 'Major'
+UPDATE semester
+SET semester_number = 2
 WHERE netid = 'dk194'
-AND pid = 'Psych';
+AND pid = 'T-req'
+AND classid = 'CHEM101'
+and type = 'T-req';
