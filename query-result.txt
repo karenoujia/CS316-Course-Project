@@ -1,0 +1,27 @@
+ semester_number |  classid   |  pid  |            type            
+-----------------+------------+-------+----------------------------
+               1 | CHEM101    | T-Req | T-Req
+               1 | MATH212    | Data  | Data Science Concentration
+               1 | EGR103     | T-Req | T-Req
+               1 | WRITING101 | T-Req | T-Req
+               2 | COMPSCI101 | Data  | Data Science Concentration
+               2 | EGR121     | T-Req | T-Req
+               3 | COMPSCI201 | Data  | Data Science Concentration
+               3 | CULANTH190 | T-Req | T-Req
+               4 | COMPSCI250 | Data  | Data Science Concentration
+               4 | PSY101     | Psych | Minor
+               4 | SPANISH203 | T-Req | T-Req
+               5 | COMPSCI310 | Data  | Data Science Concentration
+               5 | PSY221     | Psych | Minor
+               5 | PSY257     | Psych | Minor
+               5 | SPANISH204 | T-Req | T-Req
+               6 | COMPSCI216 | Data  | Data Science Concentration
+               6 | ARTSVIS317 | T-Req | T-Req
+               6 | COMPSCI270 | Data  | Data Science Concentration
+               6 | SPANISH303 | T-Req | T-Req
+               7 | ARTSVIS326 | T-Req | T-Req
+               7 | COMPSCI316 | Data  | Data Science Concentration
+               7 | COMPSCI330 | Data  | Data Science Concentration
+               7 | PSY104     | Psych | Minor
+(23 rows)
+
