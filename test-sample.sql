@@ -11,6 +11,6 @@ VALUES ('jo99', 'Aspiring engineer interested in the intersection of business an
 UPDATE semester
 SET semester_number = 2
 WHERE netid = 'dk194'
-AND pid = 'T-req'
+AND pid = 'T-Req'
 AND classid = 'CHEM101'
-and type = 'T-req';
+and type = 'T-Req';
