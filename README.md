@@ -1,7 +1,7 @@
 # CS316-Course-Project
 Course schedule recommender project
 
-===
+---
 To load the database, open up your terminal and type:
 ```
 dropdb plan
