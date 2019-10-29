@@ -1,0 +1,6 @@
+
+# access to the database
+heroku pg:psql --app course-schedule-recommender
+
+# access to the app
+heroku git:remote -a course-schedule-recommender
