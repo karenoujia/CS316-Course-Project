@@ -2,7 +2,7 @@
 
 INSERT INTO Student VALUES('sx53', 'Interested in data science ');
 
-INSERT INTO Class VALUES('COMPSCI230', 'Discret Math');
+INSERT INTO Class VALUES('COMPSCI230', 'Discrete Math');
 INSERT INTO Class VALUES('COMPSCI250', 'Computer Architecture');
 INSERT INTO Class VALUES('ECON372', 'Intermediate Finance');
 INSERT INTO Class VALUES('MATH218', 'Matrics And Vector Spaces');
