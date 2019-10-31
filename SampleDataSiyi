@@ -1,0 +1,25 @@
+## Siyi
+
+INSERT INTO Student VALUES('sx53', 'Interested in data science ');
+
+INSERT INTO Class VALUES('COMPSCI230', 'Discrete Math');
+INSERT INTO Class VALUES('COMPSCI250', 'Computer Architecture');
+INSERT INTO Class VALUES('ECON372', 'Intermediate Finance');
+INSERT INTO Class VALUES('MATH218', 'Matrics And Vector Spaces');
+INSERT INTO Class VALUES('STA230', 'Probability');
+INSERT INTO Class VALUES('PHYSEDU143', 'Beginning Tennis’);
+
+INSERT INTO Class VALUES('COMPSCI216', 'Everything Data');
+INSERT INTO Class VALUES('PHIL103', 'Intro to Philosophy');
+INSERT INTO Class VALUES('STATS250', 'Statistics');
+INSERT INTO Class VALUES('PHYSICS133', 'Physics of Sport');
+INSERT INTO Class VALUES('STATS210', 'Regression Analysis');
+
+INSERT INTO Class VALUES('COMPSCI316', 'Intro to Database Systems');
+INSERT INTO Class VALUES('CHINESE455',’Modern Chinese Culture’);
+INSERT INTO Class VALUES('COMPSCI371', 'Element of Machine Learning');
+INSERT INTO Class VALUES('COMPSCI393', 'Research Independence Study');
+INSERT INTO Class VALUES('STA360', 'Bayesian and Modern Statistics');
+
+INSERT INTO Program VALUES('Stats', 'Statistical Science', 'B.S.');
+INSERT INTO Program VALUES('Data, 'Computer Science', 'Data Science Concentration');
