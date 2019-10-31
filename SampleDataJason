@@ -1,0 +1,89 @@
+## Jason
+
+INSERT INTO Student VALUES('jz192', 'Interested in CS and Econ');
+
+INSERT INTO Class VALUES('ECON201', 'Intermediate Microconomics I');
+INSERT INTO Class VALUES('HISTORY190FS', 'Topics in Focus Program');
+INSERT INTO Class VALUES('ITALIAN190FS', 'Focus Topics: Italian Literature and Culture');
+INSERT INTO Class VALUES('MATH212', 'Multivariable Calculus');
+
+INSERT INTO Class VALUES('CS250D', 'Computer Architecture');
+INSERT INTO Class VALUES('ECON205D', 'Intermediate Microconomics II')
+INSERT INTO Class VALUES('MATH221', 'Linear Algebra and Applications');
+INSERT INTO Class VALUES('MATH230', 'Probability');
+INSERT INTO Class VALUES('WRITING101', 'Academic Writing');
+INSERT INTO Class VALUES('EOS101', 'The Dynamic Earth');
+
+INSERT INTO Class VALUES('PSY101', 'Introductory Psychology');
+INSERT INTO Class VALUES('COMPSCI230', 'Discrete Math for Compsci')
+INSERT INTO Class VALUES('COMPSCI308', 'Software Design & Implementation');
+INSERT INTO Class VALUES('ECON210D', 'Intermediate Macroeconomics');
+INSERT INTO Class VALUES('ECON372', 'Intermediate Finance');
+
+INSERT INTO Class VALUES('COMPSCI527', 'Computer Vision');
+INSERT INTO Class VALUES('COMPSCI330', 'Design and Analysis of Algorithms')
+INSERT INTO Class VALUES('COMPSCI356', 'Computer Network Architecture');
+INSERT INTO Class VALUES('ECON476', 'Empirical Asset Pricing');
+INSERT INTO Class VALUES('ECON590', 'Financial Informatics');
+
+INSERT INTO Class VALUES('CHINESE455', 'Modern Chinese Culture');
+INSERT INTO Class VALUES('COMPSCI316', 'Intro to Database Systems');
+INSERT INTO Class VALUES('COMPSCI310', 'Operating Systems');
+INSERT INTO Class VALUES('COMPSCI393', 'Research Independent Study');
+INSERT INTO Class VALUES('ECON208D', 'Introduction to Econometrics');
+INSERT INTO Class VALUES('ECON305', 'History of International Financial and Monetary Crises');
+
+INSERT INTO Class VALUES('MATH431', 'Introduction to Real Analysis');
+INSERT INTO Class VALUES('MATH260', 'Python Programming in Math');
+INSERT INTO Class VALUES('ECON379', 'Emerging Markets');
+INSERT INTO Class VALUES('ECON674', 'Financial Derivatives');
+INSERT INTO Class VALUES('COMPSCI394', 'Research Independent Study');
+INSERT INTO Class VALUES('COMPSCI553', 'Compiler Construction');
+
+INSERT INTO Program VALUES('CompSci', 'Computer Science', 'Major');
+INSERT INTO Program VALUES('Econ', 'Economics', 'Finance Concentration');
+INSERT INTO Program VALUES('Math', 'Mathematics', 'Minor');
+INSERT INTO Program VALUES('T-Req', 'T-Req', 'T-Req');
+
+INSERT INTO Completed VALUES('jz192', 'CompSci', 'Major');
+INSERT INTO Completed VALUES('jz192', 'Econ', 'Major');
+INSERT INTO Completed VALUES('jz192', 'Math', 'Minor');
+INSERT INTO Completed VALUES('jz192', 'T-Req', 'T-Req');
+
+INSERT INTO Semester VALUES('jz192', 'ECON201', 'Econ', 'Major', 1);
+INSERT INTO Semester VALUES('jz192', 'HISTORY190FS', 'T-Req', 'T-Req', 1);
+INSERT INTO Semester VALUES('jz192', 'ITALIAN190FS','T-Req', 'T-Req', 1);
+INSERT INTO Semester VALUES('jz192', 'MATH212', 'Math', 'Minor', 1);
+
+INSERT INTO Semester VALUES('jz192', 'CS250D', 'Compsci', 'Major', 2);
+INSERT INTO Semester VALUES('jz192', 'ECON205D', 'Econ', 'Major', 2)
+INSERT INTO Semester VALUES('jz192', 'MATH221', 'Math', 'Minor', 2);
+INSERT INTO Semester VALUES('jz192', 'MATH230', 'Math', 'Minor', 2);
+INSERT INTO Semester VALUES('jz192', 'WRITING101', 'T-Req', 'T-Req', 2);
+INSERT INTO Semester VALUES('jz192', 'EOS101', 'T-Req', 'T-Req', 2);
+
+INSERT INTO Semester VALUES('jz192', 'PSY101', 'T-Req', 'T-Req', 3);
+INSERT INTO Semester VALUES('jz192', 'COMPSCI230', 'Compsci', 'Major', 3);
+INSERT INTO Semester VALUES('jz192', 'COMPSCI308', 'Compsci', 'Major', 3);
+INSERT INTO Semester VALUES('jz192', 'ECON210D', 'Econ', 'Major', 3);
+INSERT INTO Semester VALUES('jz192', 'ECON372', 'Econ', 'Major', 3);
+
+INSERT INTO Semester VALUES('jz192', 'COMPSCI527', 'Compsci', 'Major', 4);
+INSERT INTO Semester VALUES('jz192', 'COMPSCI330', 'Compsci', 'Major', 4);
+INSERT INTO Semester VALUES('jz192', 'COMPSCI356', 'Compsci', 'Major', 4);
+INSERT INTO Semester VALUES('jz192', 'ECON476', 'Econ', 'Major', 4);
+INSERT INTO Semester VALUES('jz192', 'ECON590', 'Econ', 'Major', 4);
+
+INSERT INTO Semester VALUES('jz192', 'CHINESE455', 'T-Req', 'T-Req', 5);
+INSERT INTO Semester VALUES('jz192', 'COMPSCI316', 'Compsci', 'Major', 5);
+INSERT INTO Semester VALUES('jz192', 'COMPSCI310', 'Compsci', 'Major', 5);
+INSERT INTO Semester VALUES('jz192', 'COMPSCI393', 'Compsci', 'Major', 5);
+INSERT INTO Semester VALUES('jz192', 'ECON208D', 'Econ', 'Major', 5);
+INSERT INTO Semester VALUES('jz192', 'ECON305', 'Econ', 'Major', 5);
+
+INSERT INTO Semester VALUES('jz192', 'MATH431', 'Math', 'Minor', 6);
+INSERT INTO Semester VALUES('jz192', 'MATH260', 'Math', 'Minor', 6);
+INSERT INTO Semester VALUES('jz192', 'ECON379', 'Econ', 'Major', 6);
+INSERT INTO Semester VALUES('jz192', 'ECON674', 'Econ', 'Major', 6);
+INSERT INTO Semester VALUES('jz192', 'COMPSCI394', 'Compsci', 'Major', 6);
+INSERT INTO Semester VALUES('jz192', 'COMPSCI553', 'Compsci', 'Major', 6);
