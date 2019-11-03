@@ -1,0 +1,97 @@
+## Karen
+
+INSERT INTO Student VALUES('jo99', 'Looking for opportunities in the tech industry');
+
+INSERT INTO Class VALUES('BIOLOGY201', 'Molecular Biology');
+INSERT INTO Class VALUES('SPANISH102', 'Elementary Spanish 2');
+INSERT INTO Class VALUES('EGR103', 'Computational Methods in Engineering');
+INSERT INTO Class VALUES('MATH212', 'Multivariable Calculus');
+INSERT INTO Class VALUES('PHYSEDU171', 'Intermediate Yoga');
+
+INSERT INTO Class VALUES('BIOLOGY220', 'Cell & Developmental Biology');
+INSERT INTO Class VALUES('SPANISH203', 'Intermediate Spanish');
+INSERT INTO Class VALUES('PHYSICS151', 'Introductory Mechanics');
+INSERT INTO Class VALUES('MATH216', 'Linear Algebra & Diff Equation');
+INSERT INTO Class VALUES('WRITING101', 'Music as Medicine?');
+
+INSERT INTO Class VALUES('BME244', 'Quantitative Physiology with Biostatistical Applications');
+INSERT INTO Class VALUES('EGR121', 'Engineering Innovation');
+INSERT INTO Class VALUES('EGR201', 'Mechanics of Solids');
+INSERT INTO Class VALUES('PHYSICS152', 'Introductory Electricity, Magnetism, and Optics');
+
+INSERT INTO Class VALUES('COMPSCI101', 'Introduction to Computer Science');
+INSERT INTO Class VALUES('EGR224', 'Electrical Fundamentals of Mechatronics');
+INSERT INTO Class VALUES('EGR244', 'Dynamics');
+INSERT INTO Class VALUES('I&E352', 'Innovation & Entrepreneurship');
+INSERT INTO Class VALUES('MATH353', 'Ordinary & Partial Differential Equations');
+
+INSERT INTO Class VALUES('COMPSCI201', 'Data Structures and Algorithms');
+INSERT INTO Class VALUES('COMPSCI230', 'Discrete Math for Computer Science');
+INSERT INTO Class VALUES('ME331', 'Thermodynamics');
+INSERT INTO Class VALUES('ME344', 'Control Systems');
+INSERT INTO Class VALUES('MMS370', 'Managerial Finance');
+
+INSERT INTO Class VALUES('COMPSCI216', 'Everything Data');
+INSERT INTO Class VALUES('ME221', 'Structure and Properties of Solids');
+INSERT INTO Class VALUES('ME321', 'Mechanical Analysis for Design');
+INSERT INTO Class VALUES('ME336', 'Fluid Mechanics');
+INSERT INTO Class VALUES('ME555', 'Human Robot Interaction');
+
+INSERT INTO Class VALUES('COMPSCI316', 'Intro to Database Systems');
+INSERT INTO Class VALUES('COMPSCI250', 'Computer Architecture');
+INSERT INTO Class VALUES('ME421', 'Mechanical Design');
+INSERT INTO Class VALUES('ME431', 'Heat and Mass Transfer');
+INSERT INTO Class VALUES('PHYSEDU105', 'Pilates Mat and Ball');
+
+INSERT INTO Class VALUES(‘COMPSCI323’, ‘Computational Microeconomics’);
+INSERT INTO Class VALUES(‘COMPSCI330’, ‘Introduction to the Design and Analysis of Algorithms’);
+INSERT INTO Class VALUES('COMPSCI512’, ‘Distributed Systems’);
+INSERT INTO Class VALUES('ME513’, ‘Nanobiomechanics’);
+INSERT INTO Class VALUES('ME424’, ‘Mechanical Systems Design’);
+INSERT INTO Class VALUES('DANCE143’, ‘Hip Hop II’);
+
+INSERT INTO Program VALUES(‘5’, ‘Mechanical Engineering’, ‘B.S.E.’);
+INSERT INTO Program VALUES(‘1’, 'Computer Science', 'B.S.');
+INSERT INTO Program VALUES(‘4’, 'Fun', 'Fun');
+
+INSERT INTO Completed VALUES('jo99', ‘1’, ‘Computer Science B.S.');
+INSERT INTO Completed VALUES('jo99', ‘5’, 'Major');
+
+INSERT INTO Semester VALUES('dk194','CHEM101', ‘3, 'T-Req', 1);
+INSERT INTO Semester VALUES('dk194', 'MATH212', ‘1’, 'Computer Science B.S', 1);
+INSERT INTO Semester VALUES('dk194','EGR103', ‘3’, 'T-Req',1);
+INSERT INTO Semester VALUES('dk194','WRITING101', ‘3’, 'T-Req', 1);
+
+INSERT INTO Semester VALUES('dk194','COMPSCI101', ‘1’, ‘Computer Science B.S’, 2);
+INSERT INTO Semester VALUES('dk194', 'EGR121', ‘3’, 'T-Req', 2);
+INSERT INTO Semester VALUES('dk194', 'MATH216', ‘1’, 'Computer Science B.S’, 2);
+INSERT INTO Semester VALUES('dk194', 'PSY102', ‘2’, 'Minor’, 2);
+
+INSERT INTO Semester VALUES('dk194', 'COMPSCI230', ‘1’, ‘Computer Science B.S’, 3);
+INSERT INTO Semester VALUES('dk194','COMPSCI201', ‘1’, ‘Computer Science B.S’, 3);
+INSERT INTO Semester VALUES('dk194', 'CULANTH190', ‘3’, 'T-Req', 3);
+INSERT INTO Semester VALUES('dk194', 'STA230', ‘1’, 'Computer Science B.S’, 3);
+
+INSERT INTO Semester VALUES('dk194','ARSTVIS328', ‘4’, 'Fun', 4);
+INSERT INTO Semester VALUES('dk194','COMPSCI250', ‘1’, 'Computer Science B.S', 4);
+INSERT INTO Semester VALUES('dk194','PSY101', ‘2’, 'Minor', 4);
+INSERT INTO Semester VALUES('dk194', 'SPANISH203', ‘3’, 'T-Req', 4);
+
+INSERT INTO Semester VALUES('dk194','COMPSCI310', ‘1’, 'Computer Science B.S', 5);
+INSERT INTO Semester VALUES('dk194','PSY221', ‘2’, 'Minor', 5);
+INSERT INTO Semester VALUES('dk194','PSY257', ‘2’, 'Minor', 5);
+INSERT INTO Semester VALUES('dk194', 'SPANISH204', ‘3’, 'T-Req', 5);
+
+INSERT INTO Semester VALUES('dk194','COMPSCI216', ‘1’, 'Computer Science B.S', 6);
+INSERT INTO Semester VALUES('dk194','ARTSVIS317', ‘3’, 'T-Req', 6);
+INSERT INTO Semester VALUES('dk194','COMPSCI270', ‘1’, 'Computer Science B.S', 6);
+INSERT INTO Semester VALUES('dk194','SPANISH303', ’3, 'T-Req', 6);
+
+INSERT INTO Semester VALUES('dk194','ARTSVIS326', ‘3’, 'T-Req', 7);
+INSERT INTO Semester VALUES('dk194','COMPSCI316', ‘1’, 'Computer Science B.S', 7);
+INSERT INTO Semester VALUES('dk194','COMPSCI330', ‘1’, 'Computer Science B.S', 7);
+INSERT INTO Semester VALUES('dk194','PSY104’,’2’, 'Minor', 7);
+
+INSERT INTO Semester VALUES('dk194’,’AMES315’,’4’, ‘Fun’, 8);
+INSERT INTO Semester VALUES('dk194’,’HISTORY266’,’4’, ‘Fun’, 8);
+INSERT INTO Semester VALUES('dk194’,’COMPSCI342’,’1’, ‘Computer Science B.S’, 8);
