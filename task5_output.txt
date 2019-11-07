@@ -1,0 +1,91 @@
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+DELETE 2
+INSERT 0 1
+ netid |  classid   | pid | semester_number | netid |          description           | netid | pid
+-------+------------+-----+-----------------+-------+--------------------------------+-------+-----
+ man44 | COMPSCI101 |   2 |               1 | man44 | Interested in Finance and data | man44 |   1
+ man44 | COMPSCI201 |   2 |               2 | man44 | Interested in Finance and data | man44 |   1
+ man44 | COMPSCI216 |   2 |               4 | man44 | Interested in Finance and data | man44 |   1
+ man44 | COMPSCI250 |   2 |               7 | man44 | Interested in Finance and data | man44 |   1
+ man44 | COMPSCI270 |   2 |               6 | man44 | Interested in Finance and data | man44 |   1
+ man44 | COMPSCI316 |   2 |               7 | man44 | Interested in Finance and data | man44 |   1
+ man44 | COMPSCI330 |   2 |               8 | man44 | Interested in Finance and data | man44 |   1
+ man44 | COMPSCI342 |   2 |               8 | man44 | Interested in Finance and data | man44 |   1
+ man44 | ECON101    |   1 |               1 | man44 | Interested in Finance and data | man44 |   1
+ man44 | ECON201    |   1 |               2 | man44 | Interested in Finance and data | man44 |   1
+ man44 | ECON205    |   1 |               3 | man44 | Interested in Finance and data | man44 |   1
+ man44 | ECON208    |   1 |               4 | man44 | Interested in Finance and data | man44 |   1
+ man44 | ECON210    |   1 |               5 | man44 | Interested in Finance and data | man44 |   1
+ man44 | ECON372    |   1 |               4 | man44 | Interested in Finance and data | man44 |   1
+ man44 | ECON377    |   1 |               5 | man44 | Interested in Finance and data | man44 |   1
+ man44 | ECON394    |   1 |               8 | man44 | Interested in Finance and data | man44 |   1
+ man44 | ECON490    |   1 |               6 | man44 | Interested in Finance and data | man44 |   1
+ man44 | ECON590    |   1 |               6 | man44 | Interested in Finance and data | man44 |   1
+ man44 | MATH122    |   1 |               1 | man44 | Interested in Finance and data | man44 |   1
+ man44 | MATH202    |   1 |               2 | man44 | Interested in Finance and data | man44 |   1
+ man44 | STATS111   |   3 |               3 | man44 | Interested in Finance and data | man44 |   1
+ man44 | STATS230   |   3 |               5 | man44 | Interested in Finance and data | man44 |   1
+ man44 | STATS250   |   3 |               6 | man44 | Interested in Finance and data | man44 |   1
+(23 rows)
+
+
+ pid |               name                |            type
+-----+-----------------------------------+----------------------------
+   1 | Economics                         | Finance Concentration
+   2 | Computer Science                  | B.S.
+   3 | Statistical Science               | Minor
+   4 | Statistical Science               | B.S.
+   5 | Computer Science                  | Data Science Concentration
+   7 | Psychology                        | Minor
+   8 | T-Req                             | T-Req
+   9 | Fun                               | Fun
+  15 | Chemistry                         | B.A.
+  16 | Physics                           | B.S.
+  17 | Math                              | B.S.
+  18 | Biology                           | B.S.
+   6 | Mechanical Engineering            | B.S.E.
+  20 | EOS                               | B.S.
+  21 | ENVIRON                           | B.S.
+  22 | DANCE                             | B.A.
+  23 | HISTORY                           | B.A.
+  24 | SES                               | B.A.
+  30 | Philosophy                        | B.A.
+  31 | Public Policy                     | B.A.
+  32 | Neuroscience                      | B.S.
+  33 | Sociology                         | B.A.
+  34 | East Asia                         | B.A.
+  25 | Biomedical Engineering            | B.S.E.
+  27 | Civil Engineering                 | B.S.E.
+  26 | Electrical & Computer Engineering | B.S.E.
+  28 | Aerospace Engineering             | Certificate
+  29 | Architectural Engineering         | Certificate
+  35 | Premed                            | Premed
+ 999 | New Program                       | Test
