@@ -1,9 +1,9 @@
-David Kohler (dk194) 5/5 effort. Designed E/R and schema, helped compile doc.
+David Kohler (dk194) 5/5 effort. Worked on designing and implementing the frontend web page. Helped compile the doc. 
 
-Michael Nicholson (man44) 5/5 effort. Created Create and Load functions to initialize database. Helped compile doc.
+Michael Nicholson (man44) 5/5 effort. Updated the database table assumptions. Wrote task 5 queries. Helped compile doc.
 
-Siyi Xu (sx53) 5/5 effort. Mocked up web design and helped with formatting database. Helped compile doc.
+Siyi Xu (sx53) 5/5 effort. Set up backend with Jingchao. Connected frontend and backend.
 
-Karen Ou (jo99) 5/5 effort. Set up database with Heroku, helped with inital data. Helped compile doc.
+Karen Ou (jo99) 5/5 effort. Set up react with a skeleton framework and hello world implmentation of front end. Helped compile doc.
 
-Jingchao Zhou (jz192) 5/5 effort. Created Doc, did much of write-up. Helped with formatting data and getting database set up.
+Jingchao Zhou (jz192) 5/5 effort. Set up back end with Siyi. Connected the backend and the database.
