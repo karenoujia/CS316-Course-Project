@@ -1,0 +1,3225 @@
+,number,name
+0,AAAS89,Year Seminar (Top)
+1,AAAS102,Amer St
+2,AAAS103, Intro To African Studies
+3,AAAS104, Intro To Latino/A Studies
+4,AAAS134, Old Worlds/New Histories
+5,AAAS140, Introduction To Jazz
+6,AAAS190, Special Topics
+7,AAAS209,Brazil Culture/Hst
+8,AAAS218,1700
+9,AAAS225, Documenting Black Experiences
+10,AAAS228, Fictions That Mark The Moment
+11,AAAS242," Race, Gender, And Sexuality"
+12,AAAS243, Civil Rights Movement
+13,AAAS247, Social Movements/Social Media
+14,AAAS261," Race, Genomics, And Society"
+15,AAAS269, Black Gods And Kings
+16,AAAS271, Humanitarianism In Africa
+17,AAAS274, Islam In The Americas
+18,AAAS290, Special Topcs
+19,AAAS310, Conflict Analysis In Africa
+20,AAAS316,Africa/Democracy
+21,AAAS322, Toni Morrison
+22,AAAS325,Hop Production
+23,AAAS337, Hollywood And Africa
+24,AAAS338, Images Of Black Masculinity
+25,AAAS341, Race In Durham
+26,AAAS345, Mass Incarceration/Citizenship
+27,AAAS346, Racial Justice: Us & S Africa
+28,AAAS352, Pigging Out: Cultural Pol/Food
+29,AAAS390, Special Topics
+30,AAAS409, Cap Sem: Age Of Jim Crow
+31,AAAS491, Independent Study
+32,AAAS493, Research Independent Study
+33,AAAS495, Distinction Program Seq
+34,AAAS531, Black Camera
+35,AAAS622, Black Sonic
+36,AAAS640, African Cities
+37,AAAS641, Citizen/Subject:Neoliberal Age
+38,AAAS642, Global Inequality Research
+39,AAAS690, Special Topics
+40,AAAS892, Independent Study
+41,ACCOUNTG501, Financial Accounting Review
+42,ACCOUNTG590, Financial Accounting
+43,ACCOUNTG591, Managerial Accounting
+44,ACCOUNTG592, Detecting Earnings Management
+45,ACCOUNTG596,Mergers/Acquisitions
+46,ACCOUNTG597, Financial Statement Anly
+47,ACCOUNTG598, Valuation/Fundamen Analy
+48,AEROSCI99, Leadership Laboratory
+49,AEROSCI101, Foundations Us Air Force
+50,AEROSCI201, Evol Us Air/Space Power
+51,AEROSCI401, Defense Studies
+52,AMES89,Year Seminar (Top)
+53,AMES114, Buddhism
+54,AMES142, History Of Chinese Medicine
+55,AMES184, Gendering War: Middle East
+56,AMES208, Geopolitics And Culture
+57,AMES214, Music In East Asia
+58,AMES220,Qaeda To Isis
+59,AMES222, Syrian And Iraqi Revolutions
+60,AMES223, History And Culture Of Iran
+61,AMES227, The Modern Middle East
+62,AMES230, Islam In The Americas
+63,AMES231, Migrant China
+64,AMES232, Chinese Lit/Cult In Translatn
+65,AMES234, Shanghai
+66,AMES239, China And The Silk Roads
+67,AMES251, Indian Cinema
+68,AMES257, Indian Civilization
+69,AMES258, Gandhi: Image And Reflection
+70,AMES261, Japanese Cinema
+71,AMES262, Contemp Japanese Vis Culture
+72,AMES269, Emergence Of Modern Japan
+73,AMES302," Hashtags Memes,Digital Tribes"
+74,AMES328, Literary Islam
+75,AMES332, Storyworlds
+76,AMES351, Atheism And Buddhism
+77,AMES361, Anime: Forms And Mutations
+78,AMES373,Ind/East
+79,AMES375, Middle East And Latin America
+80,AMES390,Adm Study Abr: Adv Top
+81,AMES391, Independent Study
+82,AMES415, Interethnic Intimacies
+83,AMES422, Middle East Women Writers
+84,AMES439, Queer China
+85,AMES440, Games And Culture
+86,AMES471, World Of Korean Cinema
+87,AMES475, North Korea
+88,AMES493, Research Independent Study
+89,AMES495, Collaborative Research
+90,AMES498, Senior Honors Thesis Seminar
+91,AMES503, Asian & Middle Eastern Studies
+92,AMES515, Interethnic Intimacies
+93,AMES528, Literary Islam
+94,AMES535, Chinese Media & Pop Culture
+95,AMES539, Queer China
+96,AMES561, Anime: Forms And Mutations
+97,AMES593, Research Independent Study
+98,AMES605, East Asian Cultural St
+99,AMES631, Modern Chinese Cinema
+100,AMES661, Japanese Cinema
+101,AMES671, World Of Korean Cinema
+102,AMES695, Collaborative Research
+103,AMES740, Critical Genealogies
+104,AMES771, Topics In Classical Japanese
+105,AMI89, First Year Seminar (Top)
+106,AMI101, Intro Arts Of The Moving Image
+107,AMI201, Intro To Film Studies
+108,AMI202, History Of Documentary Film
+109,AMI205, Contemporary Documentary Film
+110,AMI209, Film Noir
+111,AMI210, Film Genres
+112,AMI214, Documenting Black Experiences
+113,AMI224, Writing The Tv Drama Series
+114,AMI230," Sound,Music, & Moving Image"
+115,AMI246, Social Movements/Social Media
+116,AMI250, American Immigrant Experiences
+117,AMI253, Indian Cinema
+118,AMI255, Japanese Cinema
+119,AMI256, World Of Korean Cinema
+120,AMI260, Anime: Forms And Mutations
+121,AMI273, Religion And Film
+122,AMI290, Special Topics In Film Studies
+123,AMI301, Moving Image Practice
+124,AMI302," Hashtags Memes,Digital Tribes"
+125,AMI306, Writing The Movie
+126,AMI320, Film Animation Production
+127,AMI325,Based Multimedia Communic
+128,AMI331, Doc Exper: A Video Appr
+129,AMI334,Fiction
+130,AMI335, Public Policy Video
+131,AMI336, Documentary And Policy
+132,AMI338, Storyworlds
+133,AMI343, Dance For The Camera
+134,AMI356, 16Mm Film Production
+135,AMI357, Editing For Film And Video
+136,AMI365, The Documentary Turn
+137,AMI390,Adm St Abr: Adv Topics
+138,AMI395, Internship
+139,AMI415, Interethnic Intimacies
+140,AMI439, Queer China
+141,AMI499, Capstone: Arts Of Moving Image
+142,AMI515, Interethnic Intimacies
+143,AMI539, Queer China
+144,AMI561, Anime: Forms And Mutations
+145,AMI620,Makers
+146,AMI633, Modern Chinese Cinema
+147,AMI635, 16Mm Film Production
+148,AMI650, Black Camera
+149,AMI690, Special Topics In Ami
+150,AMI691, Independent Study
+151,AMXTIAN756, American Christianity
+152,AMXTIAN807, Social Organiz Of Amer Rel
+153,AMXTIAN810, J Edwards And The Puritan Trad
+154,AMXTIAN999, Directed Study
+155,ANESTH220, Clinical Anesthesiology
+156,ANESTH221, Pain Management
+157,ANESTH401,Ii
+158,ANESTH402, Cardio Intens Care Elective
+159,ANESTH430, Diving & Hyperbaric Medicine
+160,ANESTH440, Clinical Anesthesiology
+161,ANESTH441, Surgical Intensive Care
+162,ANESTH446, Acute & Chronic Pain Mngmt
+163,ARABIC101, Elementary Arabic
+164,ARABIC203, Intermediate Arabic
+165,ARABIC281, Media Arabic I
+166,ARABIC305, Advanced Arabic
+167,ARABIC328, Literary Islam
+168,ARABIC391, Independent Study
+169,ARABIC407, Issues In Arabic Lang/Lit I
+170,ARABIC791, Independent Study
+171,ARTHIST89,Year Seminar (Top)
+172,ARTHIST104, Exploring Art And Architecture
+173,ARTHIST190, Special Topics In Art History
+174,ARTHIST205, The Aegean Bronze Age
+175,ARTHIST220, Museum Theory And Practice
+176,ARTHIST225, Gothic Cathedrals
+177,ARTHIST231, History Of Art Markets
+178,ARTHIST255, Renaiss/Baroque Art Hst
+179,ARTHIST256, Italian Baroque Art
+180,ARTHIST286, Contemporary Architecture
+181,ARTHIST291, Independent Study
+182,ARTHIST292, Independent Study
+183,ARTHIST293, Research Independent Study
+184,ARTHIST294, Research Independent Study
+185,ARTHIST295, Chinese Art 1900 To Present
+186,ARTHIST296, Berlin:Architecture/Art/City
+187,ARTHIST305, Virtual Museums
+188,ARTHIST310, Museum Internship I
+189,ARTHIST311, Museum Internship Ii
+190,ARTHIST312, Internship In Ny
+191,ARTHIST313, The Business Of Art And Media
+192,ARTHIST390,Adm St Abr: Adv Top
+193,ARTHIST491, Independent Study
+194,ARTHIST492, Independent Study
+195,ARTHIST493, Research Independent Study
+196,ARTHIST494, Research Independent Study
+197,ARTHIST502,Roman
+198,ARTHIST543, Methodology Of Art Hst
+199,ARTHIST547, Digital Archaeology
+200,ARTHIST580, Hist & Cult Viz Proseminar 1
+201,ARTHIST590, Special Topics
+202,ARTHIST650, Black Camera
+203,ARTHIST723, Grant Writing And Prospectus
+204,ARTHIST791, Individual Research
+205,ARTHIST792, Individual Research
+206,ARTHIST911, Religious Material Culture
+207,ARTS&SCI125, Development Politic & Practice
+208,ARTS&SCI261," Race, Genomics, And Society"
+209,ARTS&SCI279, Modern Terrorism
+210,ARTS&SCI303," Hashtags Memes, Digital Tribes"
+211,ARTS&SCI395, Bass Connections: Projects
+212,ARTS&SCI795, Bass Connections: Projects
+213,ARTSVIS89,Year Seminar (Top)
+214,ARTSVIS102, Intro Arts Of The Moving Image
+215,ARTSVIS115, Intro To B&W Photography
+216,ARTSVIS119, Intro To Digital Photography
+217,ARTSVIS120, Compositional Painting
+218,ARTSVIS130, Experimental Drawing
+219,ARTSVIS199, Drawing
+220,ARTSVIS206, Digital Imaging
+221,ARTSVIS212, Digital Documentary Photo
+222,ARTSVIS220, Intermediate Painting
+223,ARTSVIS224, Printmaking: Silkscreen
+224,ARTSVIS234, Scene Design
+225,ARTSVIS240, Color Photography
+226,ARTSVIS249, The Photobook
+227,ARTSVIS291, Independent Study
+228,ARTSVIS305, Virtual Museums
+229,ARTSVIS326, Film Animation Production
+230,ARTSVIS340,Fiction
+231,ARTSVIS356, 16Mm Film Production
+232,ARTSVIS364, Web Design And Narrative
+233,ARTSVIS391, Independent Study
+234,ARTSVIS491, Independent Study
+235,ARTSVIS492, Independent Study
+236,ARTSVIS497, Advanced Visual Practice
+237,ARTSVIS693, Research Independent Study
+238,ARTSVIS694, Research Independent Study
+239,ASEP301, Research In Asep
+240,BA910, Bayesian Inference & Dec
+241,BA921, Org Sem: A Micro Focus
+242,BA925, Behavior Decision Theory
+243,BA932, Accounting Seminar: Analytical
+244,BA933, Advanced Topics In Accounting
+245,BA951, Finance 1
+246,BA971, Econ'S Of Tech Chg & Innov'N
+247,BA972, Topics In Strategy
+248,BA991, Selected Topics
+249,BCS767," Christianity, Race, America"
+250,BCS806, Most Segregated Hour
+251,BCS999, Directed Study
+252,BES301, Research In Bes
+253,BIOCHEM301, Intro Biochemistry I
+254,BIOCHEM393, Research Independent Study
+255,BIOCHEM593, Research Independent Study
+256,BIOCHEM658, Structural Biochemistry I
+257,BIOCHEM659, Structural Biochemistry Ii
+258,BIOCHEM681, Physical Biochemistry
+259,BIOCHEM745, Biochemistry Seminar
+260,BIOCHEM790, Seminar (Top)
+261,BIOETHIC390, Special Topics
+262,BIOETHIC502, Communicating Science & Bioeth
+263,BIOETHIC591, Topics In Science Policy
+264,BIOETHIC602," Law, Research And Bioethics"
+265,BIOETHIC605, Contemporary Issues
+266,BIOETHIC700, Research Independent Study
+267,BIOETHIC704, Science Law And Policy
+268,BIOLOGY89,Year Seminar (Top)
+269,BIOLOGY128, Evolutionary Genomics
+270,BIOLOGY148, Genomics Of Symbiosis
+271,BIOLOGY157, The Dynamic Oceans
+272,BIOLOGY158, Plants And Human Use
+273,BIOLOGY180, Global Diseases
+274,BIOLOGY199, Intro To Biological Thinking
+275,BIOLOGY201, Molecular Biology
+276,BIOLOGY202, Genetics And Evolution
+277,BIOLOGY204, Biological Data Analysis
+278,BIOLOGY205, Marine Megafauna
+279,BIOLOGY209, The Ecology Of Human Health
+280,BIOLOGY212, General Microbiology
+281,BIOLOGY213, Cell Signaling And Diseases
+282,BIOLOGY220, Cell & Developmental Biology
+283,BIOLOGY223, Cell And Molec Neurobio
+284,BIOLOGY224, Fundamentals Neurosci
+285,BIOLOGY263, Bio Response To Climate Change
+286,BIOLOGY273, Marine Ecology
+287,BIOLOGY280, Fundamentals Trop Bio
+288,BIOLOGY281, Rsrch Methods Tropical Biology
+289,BIOLOGY282, Intro To Field Ethnobiology
+290,BIOLOGY283, Environmental And Human Health
+291,BIOLOGY284, S African Ecosystems
+292,BIOLOGY285, Field Research
+293,BIOLOGY290, Seminar In Biology (Top)
+294,BIOLOGY293, Research Independent Study
+295,BIOLOGY329, Principles Animal Phys
+296,BIOLOGY330, Anatomy Of Vertebrates
+297,BIOLOGY344, Plant Diversity In The Field
+298,BIOLOGY369, Biological Oceanography
+299,BIOLOGY373, Sen Phys/Bhv Mar Animals
+300,BIOLOGY376, Marine Mammals
+301,BIOLOGY377, Marine Invertebrate Zoology
+302,BIOLOGY412, Sensory Signal Transduction
+303,BIOLOGY414, Exp Dev And Mol Genetics
+304,BIOLOGY417, Genetic Engineer/Biotech
+305,BIOLOGY418, Introduction To Biophysics
+306,BIOLOGY426, Visual Processing
+307,BIOLOGY427, Sensory Biology
+308,BIOLOGY445, Marine Climate Change
+309,BIOLOGY453, Genes In An Ecological Context
+310,BIOLOGY490, Seminar (Topics)
+311,BIOLOGY491, Independent Study: Adv Topics
+312,BIOLOGY493, Research Independent Study
+313,BIOLOGY515, Principles Of Immunology
+314,BIOLOGY540, Mycology
+315,BIOLOGY547, Entomology
+316,BIOLOGY554, Human Evolutionary Genomics
+317,BIOLOGY565, Biodiversity Sci And App
+318,BIOLOGY570, Tropical Marine Ecology
+319,BIOLOGY650, Molec Popula Genetics
+320,BIOLOGY701, Graduate School 101
+321,BIOLOGY702, Succeeding Beyond Grad School
+322,BIOLOGY704, Biological Oceanography
+323,BIOLOGY705, Seminar Teaching Biology
+324,BIOLOGY711, Ecology Seminar
+325,BIOLOGY712, Plant Systematics Sem
+326,BIOLOGY718, Dev/Cell/Molec Bio Sem
+327,BIOLOGY728, Genetic Solutns Biol Problems
+328,BIOLOGY773, Marine Ecology
+329,BIOLOGY777, Marine Invertebrate Zoo
+330,BIOLOGY791, Tutorial
+331,BIOLOGY792, Research
+332,BIOLOGY841, Eco Perspectives: Indiv/Cmty
+333,BIOSTAT701, Intro / Stats Theory/Method I
+334,BIOSTAT702, Applied Biostat Methods I
+335,BIOSTAT703, Intro To Practice / Biostat I
+336,BIOSTAT707, Statistical Methods For L & D
+337,BIOSTAT713, Survival Analysis
+338,BIOSTAT714, Categorical Data Analysis
+339,BIOSTAT719, Generalized Linear Models
+340,BIOSTAT720, Master'S Project
+341,BIOSTAT721, Intro To Stats Programming I
+342,BIOSTAT801, Biostat Career Prep/Dev I
+343,BIOSTAT900, Current Problems In Biostat
+344,BIOSTAT901, Inferential Techniques/Theory
+345,BME195, Medical Instrumentation
+346,BME244, Quant Physiology Biostat Appl
+347,BME260, Models Cell And Mol Systems
+348,BME271, Signals And Systems
+349,BME354, Intro Medical Instrumentation
+350,BME394, Projects In Biomed Eng
+351,BME432, Biomech Vehicle Safety Egr
+352,BME460, Devices For Ppl W/Disabilites
+353,BME462, Design Developing World
+354,BME464, Medical Instrument Dsgn
+355,BME493, Projects In Biomed Eng
+356,BME494, Projects In Biomed Eng
+357,BME503, Computational Neuroengineering
+358,BME507, Cardiovascular System Egr
+359,BME512, Cardiac Bioelectricity
+360,BME525, Biomedical Materials
+361,BME529, Theortical & Applied Poly Sci
+362,BME542, Ultrasound Imaging
+363,BME543, Card Ultrasound Image & Funct
+364,BME551, Bme Opt Spect Tissue Optics
+365,BME552, Advanced Optics
+366,BME561, Genome Science Technology Lab
+367,BME567, Biosensors
+368,BME570, Intro Biomolecular Egr
+369,BME574, Gene Circuits
+370,BME590, Special Topics
+371,BME609, Optics & Photonics Seminar Ser
+372,BME702, Bme Graduate Seminars
+373,BME711, Biological Engineering Sem
+374,BME728, Bme Ta Seminar 1
+375,BME729, Teaching Seminar 2
+376,BME733, Experiment Design & Statistics
+377,BME789, Bme Internship
+378,BME790, Adv Top For Grads In Bme
+379,BME791, Grad Independent Study
+380,BME792, Grad Independent Study
+381,BME899, Special Readings
+382,BSP301, Research In Bsp
+383,CANADIAN350, The U.S. Border
+384,CBB510, Comp Bio Seminar
+385,CBB520, Genome Tools And Technologies
+386,CBB561, Genome Science Technology Lab
+387,CBB574, Gene Circuits
+388,CBB591, Independent Study
+389,CBB658, Structural Biochemistry I
+390,CBB659, Structural Biochemistry Ii
+391,CEE160, Intro To Environ Egr And Sci
+392,CEE205, Practical Methods In Ce
+393,CEE293, Research Indep Study In Cee
+394,CEE301, Fluid Mechanics
+395,CEE311, Arch Engineering I
+396,CEE393, Research Indep Study In Cee
+397,CEE421, Matrix Struct Analysis
+398,CEE423, Metallic Structures
+399,CEE461, Chem Principles In Env Eng
+400,CEE463, Water Resources Egr
+401,CEE490, Special Topics In Cee
+402,CEE491, Independent Study In Cee
+403,CEE493, Research Indep Study In Cee
+404,CEE511, Construction Management
+405,CEE520, Continuum Mechanics
+406,CEE530, Finite Element Method
+407,CEE541, Structural Dynamics
+408,CEE560, Environmental Transport
+409,CEE561, Environmental Aquatic Chem
+410,CEE563, Chem Fate Org Compounds
+411,CEE566, Environmental Microbiology
+412,CEE625, Intermediate Dynamics
+413,CEE627, Linear System Theory
+414,CEE675, Remote Sensing Of The Environ
+415,CEE683, Groundwater Hydrology
+416,CEE687, Hydrology Modeling
+417,CEE690, Advanced Topics In Cee
+418,CEE691, Independent Study In Cee
+419,CEE701, Graduate Colloquium
+420,CEE780, Internship
+421,CELLBIO493, Research Independent Study
+422,CELLBIO658, Structural Biochemistry I
+423,CELLBIO659, Structural Biochemistry Ii
+424,CELLBIO701, Human Structure & Function
+425,CELLBIO710, Scientific Writing
+426,CHEM89,Year Seminar (Top)
+427,CHEM91, Chem/Technol/Society
+428,CHEM99, Introduction To Chemistry
+429,CHEM101, Core Concepts In Chemistry
+430,CHEM110, Honors Chemistry
+431,CHEM201, Organic Chemistry I
+432,CHEM202, Organic Chemistry Ii
+433,CHEM210, Mod Apps Chem Principles
+434,CHEM295, Intro To Research Ind. Study
+435,CHEM301, Elements Physical Chem
+436,CHEM310, Physical Chemistry I
+437,CHEM393, Research Independent Study
+438,CHEM394, Research Independent Study
+439,CHEM401, Analytical Chemistry
+440,CHEM493, Research Independent Study
+441,CHEM494, Research Independent Study
+442,CHEM511, Biomolecular Interactions
+443,CHEM517, Molecules In Life And Disease
+444,CHEM521, Inorganic Chemistry
+445,CHEM531, Organic Chemistry
+446,CHEM532, Organic Reactions
+447,CHEM542, Quantum Mechanics
+448,CHEM548, Sol State/Materials Chem
+449,CHEM590, Special Topics In Chemistry
+450,CHEM601, Biosensors
+451,CHEM701, Research Orientation Sem
+452,CHEM801, Research
+453,CHEM990, Special Topics In Prof Develop
+454,CHILDPOL250, Child Policy Research
+455,CHILDPOL290, Sp Top: Child Policy Research
+456,CHILDPOL393, Research Independent Study
+457,CHINESE101,Year Chinese I
+458,CHINESE105, First Year Chinese In Review I
+459,CHINESE131, Literacy In Chinese I
+460,CHINESE203, Intermediate Chinese
+461,CHINESE204, Intermediate Chinese
+462,CHINESE205,Mid Chinese
+463,CHINESE305, Advanced Chinese
+464,CHINESE332, Chinese Translation
+465,CHINESE333, Advanced Literacy In Chinese
+466,CHINESE391, Independent Study
+467,CHINESE407, Issues In Chinese Lang/Soc I
+468,CHINESE435, Readings Contemp Chinese Lit I
+469,CHINESE455, Modern Chinese Culture
+470,CHURHST750, Early/Med Christianity
+471,CHURHST803, History Of Bibl Interpretation
+472,CHURHST999, Directed Study
+473,CHURMIN700, Spiritual Formatn Groups
+474,CHURMIN704, Anglican Spiritual Formation
+475,CHURMIN705, Advanced Spiritual Formation
+476,CHURMIN760, Intro To Minstry Of Preachng
+477,CHURMIN761, Intro/Cm:Ordained Ldrshp
+478,CHURMIN763, The Holy Spirit And Ministry
+479,CHURMIN999, Directed Study
+480,CLP205, Clinical Leadership Project
+481,CLST89,Year Seminar (Top)
+482,CLST144, Principles Archaeology
+483,CLST170, Liberty And Equality
+484,CLST240, Virtual Museums
+485,CLST266, Sex And Gender In Antiquity
+486,CLST283, Greek History
+487,CLST341, Ancient City: Art/Arch
+488,CLST352, The Aegean Bronze Age
+489,CLST366, Inventing Sickness
+490,CLST491, Independent Study
+491,CLST542,Roman
+492,CLST544, Digital Archaeology
+493,CLST573, Aristotle
+494,CMB551, Cell And Molecular Biology
+495,CMB658, Structural Biochemistry I
+496,CMB733, Experiment Design & Statistics
+497,CMB764, Cell/Molecular Bio Colloquium
+498,CMB778, Genetic Solutns Biol Problems
+499,CMB797, Mod Tech Molecular Bio
+500,COMMFAM205, Family Medicine
+501,COMMFAM225, Travel Med At Duke Stdnt Hlth
+502,COMMFAM401, Subinternship In Fam Med
+503,COMMFAM410, Travel Med At Duke Stdnt Hlth
+504,COMMFAM423, Occup & Environ Med
+505,COMMFAM433, Community Health
+506,COMMFAM435, Hlth Prom & Disease Prev
+507,COMMFAM441, Fam Med Continuity Exp
+508,COMMFAM449, Adv Precp In Comm & Fam Med
+509,COMPSCI89,Year Seminar (Top)
+510,COMPSCI101, Intro To Computer Science
+511,COMPSCI110," Information, Society & Culture"
+512,COMPSCI201, Data Structures And Algorithms
+513,COMPSCI230, Discrete Math For Compsci
+514,COMPSCI250, Computer Architecture
+515,COMPSCI260, Intro Computational Genomics
+516,COMPSCI290, Topics In Computer Science
+517,COMPSCI308, Software Design/Implemen
+518,COMPSCI310, Intro To Operating Systm
+519,COMPSCI316, Intro To Database Systems
+520,COMPSCI330, Design/Analy Algorithms
+521,COMPSCI350, Digital Systems
+522,COMPSCI356, Comp Network Architec
+523,COMPSCI391, Independent Study
+524,COMPSCI393, Research Independent Study
+525,COMPSCI408, Delivering Software
+526,COMPSCI445, Intro High Dim Data Analysis
+527,COMPSCI512, Distributed Information Sys
+528,COMPSCI516, Data Intensive Comp Systems
+529,COMPSCI527, Computer Vision
+530,COMPSCI531, Introduction To Algorithms
+531,COMPSCI532, Design/Analy Algorithms
+532,COMPSCI550, Adv Computer Architec I
+533,COMPSCI554,Tolerant/Comp Sys
+534,COMPSCI555, Probability Elec And Comp Egrs
+535,COMPSCI570, Artificial Intelligence
+536,COMPSCI571, Machine Learning
+537,COMPSCI590, Advanced Topics In Cps
+538,COMPSCI701, Intro Grad Students Compsci
+539,COMPSCI791, Internship
+540,COMPSCI805, Topics In Numerical Math
+541,CONTDIV1, Continuation
+542,CONTDIV2, Study Away
+543,CONTENV1, Course Continuation
+544,CONTNUR111, Course Continuation Fee
+545,CONTPPS1, Course Continuation
+546,CPE75,Duke Hospital
+547,CPE100, Level One Cpe Alamance Regionl
+548,CPE150, Level One Cpe Transferred
+549,CPE200, Level Two Cpe
+550,CPE250, Level Two Cpe Transferred
+551,CREOLE101, Elementary Creole I
+552,CREOLE203, Intermediate Creole I
+553,CREOLE701, Elementary Creole I
+554,CREOLE703, Intermediate Creole I
+555,CRP241, Intro Statistical Methods
+556,CRP242, Prin Of Clinical Research
+557,CRP248, Clinical Trials
+558,CRP257, Proteomics/Protein Bio In Med
+559,CRP259, Decision Sciences In Clin Res
+560,CRP263, Longitudinal Data Analysis
+561,CRP264, Intro To Immunology In Clinres
+562,CRP270, Research
+563,CRP273, Impl/Diss Of Hlthcare Research
+564,CRP280, Unc
+565,CRP281, Unc
+566,CRP282, Unc
+567,CRP299, Continuation Of Research
+568,CRS301, Continuation Of Research Study
+569,CRSP301, Research In Crsp
+570,CTN1, Continuation
+571,CULANTH80,Special Topics
+572,CULANTH89,Year Seminar (Top)
+573,CULANTH101, Intro To Cultural Anthro
+574,CULANTH105, Intro To African Studies
+575,CULANTH106, Doc Exper: A Video Appr
+576,CULANTH113, Enterprising Civic Engagement
+577,CULANTH131, World Music
+578,CULANTH170, Advertising/Society: Global
+579,CULANTH190, Special Topics In Focus
+580,CULANTH195, Comp Appr Global Issues
+581,CULANTH201, Intro To Linguistics
+582,CULANTH210, Global Culture
+583,CULANTH211, Geopolitics And Culture
+584,CULANTH212, Language And Society
+585,CULANTH215, Indian Civilization
+586,CULANTH219, Intro To Performance Studies
+587,CULANTH238, Politics Of Food
+588,CULANTH241, Migrant China
+589,CULANTH255, World Of Korean Cinema
+590,CULANTH258, Our Culinary Cultures
+591,CULANTH261," Race, Genomics, And Society"
+592,CULANTH262, Documenting Black Experiences
+593,CULANTH269, Black Gods And Kings
+594,CULANTH278, Nature/Nurture
+595,CULANTH290, Current Issues (Topics)
+596,CULANTH291, Independent Study
+597,CULANTH293, Research Independent Study
+598,CULANTH295, Anthropology Of Childhood
+599,CULANTH301, Theoretical Foundations
+600,CULANTH302, Fieldwork Methods
+601,CULANTH305, White Supremacy
+602,CULANTH310, Conflict Analysis In Africa
+603,CULANTH323, Fund. Of Global Mental Health
+604,CULANTH327, Pilgrimage
+605,CULANTH332, Race In Durham
+606,CULANTH336, Hollywood And Africa
+607,CULANTH346, Memory Bandits
+608,CULANTH397, Language In Immigrant America
+609,CULANTH403, Politics Of Memory
+610,CULANTH415, Interethnic Intimacies
+611,CULANTH422," Myth, Ritual, Symbol"
+612,CULANTH424, Medical Anthropology
+613,CULANTH439, Queer China
+614,CULANTH440, Games And Culture
+615,CULANTH481, Living/Dying/Healing In Russia
+616,CULANTH498, Senior Distinction Seminar
+617,CULANTH539, Queer China
+618,CULANTH562, African Cities
+619,CULANTH605, East Asian Cultural St
+620,CULANTH611, Global Mental Health
+621,CULANTH641, Citizen/Subject:Neoliberal Age
+622,CULANTH715, Nationalism
+623,CULANTH716, Capitalism
+624,CULANTH727, Dissertation Writers' Workshop
+625,CULANTH730, Studies In Ethnomusicol(Top)
+626,CULANTH746, Critical Genealogies
+627,CULANTH747, Theorizing Environment
+628,CULANTH791, Special Readings
+629,CULANTH793, Individual Research
+630,CULANTH801, Theories Cultural Anthro
+631,CULANTH804, Grant Writing
+632,CULANTH890, Advanced Selected Topics
+633,CVS301, Research In Cvs
+634,DANCE110, Elementary Modern Dance
+635,DANCE120, Beginning Ballet
+636,DANCE122, Intermediate Ballet
+637,DANCE130, African Dance Tech I
+638,DANCE131, Capoeira: Dance/Martial Art
+639,DANCE140, Jazz Dance I
+640,DANCE142, Hip Hop I
+641,DANCE210, Intermediate Modern Dance
+642,DANCE220, Advanced Intermediate Ballet
+643,DANCE230, African Dance Tech Ii
+644,DANCE240, Jazz Dance Ii
+645,DANCE280, Individ Dan Prog: Sp Top
+646,DANCE290, Special Topics Lecture
+647,DANCE306, Dance For The Camera
+648,DANCE310, Advanced Modern Dance
+649,DANCE320, Advanced Ballet
+650,DANCE321, Pointe And Variations
+651,DANCE379, Performing Arts
+652,DANCE410, Intensive Modern Dance
+653,DANCE412, Repertory: Modern
+654,DANCE420, Intensive Ballet
+655,DANCE422, Repertory: Ballet
+656,DANCE432, Repertory: African Dance
+657,DANCE487, Cap Sem: Res Methods In Dance
+658,DECISION502, Summer Mathematics Review
+659,DECISION610, Probability & Statistics
+660,DECISION611, Decision Models
+661,DECISION612, Statistical Models Global Exec
+662,DECISION613, Strategic Modeling
+663,DECISION616, Business Computer Applications
+664,DECISION618, Data Analytics For Business
+665,DECISION898, Special Topics
+666,DECISION899, Independent Study (Top)
+667,DECSCI101, Fndmntls Of Decision Science
+668,DERMATOL220, Intro To Dermatology
+669,DERMATOL401, Dermatology Inpatient Consults
+670,DERMATOL450, Clinical Dermatology
+671,DMNISTRY900, Spiritual Formation
+672,DMNISTRY901, Intro To Christian Leadership
+673,DMNISTRY904, Communication & Change
+674,DOCST89, First Year Seminar
+675,DOCST101, Traditions In Doc Studies
+676,DOCST105, Doc Exper: A Video Appr
+677,DOCST107, History Of Documentary Film
+678,DOCST110, Introduction To Oral History
+679,DOCST115, Intro To B&W Photography
+680,DOCST119, Intro To Digital Photography
+681,DOCST135, Intro To Audio Documentary
+682,DOCST206, Medicine And Documentary Photo
+683,DOCST209, Digital Documentary Photo
+684,DOCST227, Sociology Thru Photography
+685,DOCST236, Color Photography
+686,DOCST242, Dance For The Camera
+687,DOCST250, The Photobook
+688,DOCST264, Intro To Film Studies
+689,DOCST268, Religion And Film
+690,DOCST270, Contemporary Documentary Film
+691,DOCST271, Public Policy Video
+692,DOCST272, Documentary And Policy
+693,DOCST278,Fiction
+694,DOCST279, Documentary Poetry
+695,DOCST288, Editing For Film And Video
+696,DOCST290, Special Topics In Doc Studies
+697,DOCST327, Pilgrimage
+698,DOCST341, Politics Of Food
+699,DOCST344, Our Culinary Cultures
+700,DOCST350, Documenting Black Experiences
+701,DOCST354, Web Design And Narrative
+702,DOCST356, Magazine Journalism
+703,DOCST357, 16Mm Film Production
+704,DOCST365, The Documentary Turn
+705,DOCST369, Advanced Multimedia Production
+706,DOCST480, Capstone Seminar
+707,DOCST620,Makers
+708,DOCST735, Intro To Audio Documentary
+709,DOCST736, Color Photography
+710,DOCST765, The Documentary Turn
+711,ECE110, Fund Of Elec And Comp Engr
+712,ECE230, Microelect Devices & Circuits
+713,ECE250, Computer Architecture
+714,ECE270, Electromagnet Fields
+715,ECE280, Intro To Signals And Systems
+716,ECE330, Fund Microelectronic Devices
+717,ECE331, Fund. Of Microelect. Circuits
+718,ECE340, Optics And Photonics
+719,ECE350, Digital Systems
+720,ECE353, Intro To Operating Systm
+721,ECE356, Comp Network Architec
+722,ECE381, Fund Of Dig Sig Proc
+723,ECE382, Linear Control Systems
+724,ECE383, Intro Robotics/Automation
+725,ECE391, Undergraduate Research
+726,ECE459, Intro To Embedded Systems
+727,ECE483, Intro To Dig Comm Sys
+728,ECE493, Undergraduate Research
+729,ECE495, Special Topics
+730,ECE521, Quantum Mechanics
+731,ECE526, Semicon Devices For Ic
+732,ECE539, Cmos Vlsi Design Methodologies
+733,ECE541, Advanced Optics
+734,ECE549, Optics & Photonics Seminar Ser
+735,ECE550, Fund Comp System & Engineering
+736,ECE551," Prog, Data Struc & Alg0 In C++"
+737,ECE552, Adv Computer Architec I
+738,ECE554,Tolerant/Comp Sys
+739,ECE555, Probability Elec And Comp Egrs
+740,ECE559, Adv Digital System Des
+741,ECE571, Electromagnetic Theory
+742,ECE572, Electromagnetic Comm Sys
+743,ECE581, Random Signals And Noise
+744,ECE587, Information Theory
+745,ECE590, Advanced Topics In Ece
+746,ECE675, Optical Imag And Spectroscopy
+747,ECE721, Nanotechnology Materials Lab
+748,ECE891, Internship
+749,ECE899, Special Readings
+750,ECON101, Economic Principles
+751,ECON112, Globalization/Corp Citizenship
+752,ECON119, Intro To Political Economy
+753,ECON174, Financial Accounting
+754,ECON190,Adm St Abr: Sp Top Econ
+755,ECON201, Intermediate Microeconomics I
+756,ECON205, Intermediate Microeconomics Ii
+757,ECON208, Introduction To Econometrics
+758,ECON210, Intermediate Macroeconomics
+759,ECON212, Engr Systems Optim And Econ
+760,ECON223, Performing Arts
+761,ECON255, Shakespeare & Fin Mkts
+762,ECON260, Economics Of A United Europe
+763,ECON285," Denial, Faith, Reason"
+764,ECON319, Philosophy/Method Of Economics
+765,ECON334, Health Economics
+766,ECON338, Econ Of The Pub Sec
+767,ECON344, History Of Art Markets
+768,ECON345, Urban Economics
+769,ECON348, Women In The Economy
+770,ECON351, Eco/Pol Perform. Civilizations
+771,ECON353, Financial Institutions
+772,ECON361, Prisoner'S Dilemma/Distr Justi
+773,ECON370, Global Capital Markets
+774,ECON372, Intermediate Finance
+775,ECON373, Corporate Finance
+776,ECON374, New Ventures Operating Plan
+777,ECON375, Econ Of Entrepreneurship
+778,ECON379, Emerging Markets
+779,ECON380, Innovation & Entrepreneurship
+780,ECON381, Inside Hedge Funds
+781,ECON389, Ppe Capstone
+782,ECON390,Adm St Abr: Adv Top Econ
+783,ECON391, Independent Study
+784,ECON392, Independent Study
+785,ECON393, Research Independent Study
+786,ECON394, Research Independent Study
+787,ECON432, Environmental Justice
+788,ECON452, Economic Growth
+789,ECON455, International Finance
+790,ECON462, Behavioral Economics
+791,ECON465, Market Power And Public Policy
+792,ECON471, Financial Mrkt And Investments
+793,ECON490, Selected Topics In Economics
+794,ECON493, Honors Rsrch Independent Study
+795,ECON495, Honors Seminar I
+796,ECON506, Macroeconomic Policy
+797,ECON514, Fixed Income Markets/Quantitat
+798,ECON521, Evaluation Public Expenditures
+799,ECON530, Resource & Environ Econ I
+800,ECON531, Resource & Environ Econ Ii
+801,ECON541, Global Inequality Research
+802,ECON554, Urban Economics
+803,ECON555, International Trade
+804,ECON571, Financial Markets And Invest
+805,ECON572, Intermediate Finance
+806,ECON590, Selected Topics In Economics
+807,ECON591, Independent Study
+808,ECON593, Research Independent Study
+809,ECON601, Microeconomics
+810,ECON602, Macroeconomic Theory
+811,ECON608, Introduction To Econometrics
+812,ECON652, Economic Growth
+813,ECON673, Mathematical Finance
+814,ECON690, Selected Topics In Economics
+815,ECON699, Internship
+816,ECON701, Microeconomic Analysis I
+817,ECON702, Macroeconomic Analysis I
+818,ECON703, Econometrics I
+819,ECON704, 1St Year Intro To Research
+820,ECON753, Natural Resource Economics
+821,ECON757, Health Economics: Demand
+822,ECON791, Independent Study
+823,ECON801, Writing/Presenting In Econ
+824,ECON881, Topics In Applied Microecon
+825,ECON882, Topics Macro/Internatl Finance
+826,ECON883, Topics In Econometrics
+827,ECON885, Topics In Economic Theory
+828,ECON890, Special Topics In Economics
+829,ECON898, Directed Research
+830,ECON899, Internship
+831,ECON901, Applied Microeconomics Wkshp
+832,ECON902, Macro/International Econ Wkshp
+833,ECON903, Econometrics Workshop
+834,ECON905, Microecon Theory Workshop
+835,ECON908, Economic History
+836,ECON909, Econ Thought/Hope Workshop
+837,ECON951, Applied Micro Research
+838,ECON952, Macro International Fin Rsrch
+839,ECON953, Rsrch Sem: Microeconometrics
+840,ECON954, Applied Micro Devel Research
+841,ECON955, Res Sem In Economics Theory
+842,ECON957, Rsrch Sem: Finanl Econometrics
+843,EDUC101, Foundations Of Education
+844,EDUC111, Rethinking School: Soc Justice
+845,EDUC112," Medical Ethics, Aging, Eol"
+846,EDUC113, Enterprising Civic Engagement
+847,EDUC209, Digital Documentary Photo
+848,EDUC240, Educational Psychology
+849,EDUC243," Children, Schools And Society"
+850,EDUC255," Literacy, Writing, Tutoring"
+851,EDUC275, Landscape Of Health Care
+852,EDUC290,Adm St Abr: Sp Top
+853,EDUC345, Asians In American Higher Educ
+854,EDUC390,Sr Tutorials (Top)
+855,EDUC391, Independent Study
+856,EDUC393, Research Independent Study
+857,EDUC407, Teaching Prac In Math And Sci
+858,EDUC408, Teaching Prac Lang Arts & Ss
+859,EDUC409, Elementary Curriculum
+860,EDUC420, Elementary Edu: Intern
+861,EDUC430, Women And The Professions
+862,EDUC490,Adm St Abr: Adv Top
+863,EDUC495, Teaching High School
+864,EDUC498, Secondary Edu: Internship
+865,EDUC514," Technology, Society, Schools"
+866,EDUC525, Global Engagement And Career
+867,EDUC620, Nature/Needs Of Gifted Learner
+868,EGR103, Comp Meth In Engineering (Lec)
+869,EGR121, Engineering Innovation
+870,EGR190, Special Topics
+871,EGR201, Mechanics Of Solids
+872,EGR305, Engr Systems Optim And Econ
+873,EGR391, Projects
+874,EGR393, Research Projects In Egr
+875,EGR790, Special Topics In Engineering
+876,EGRMGMT501, Engineering Mgmt Seminar
+877,EGRMGMT510, Marketing
+878,EGRMGMT530, Finance In High Tech Ind
+879,EGRMGMT540, Mgmnt High Tech Industries
+880,EGRMGMT550, Engineering Mgmt Internship
+881,EGRMGMT551, Eng Mgmt Internship Assessment
+882,EGRMGMT556, Engineering Managemt Practicum
+883,EGRMGMT560, Project Management
+884,EGRMGMT562, Operations Management
+885,EGRMGMT574, Commercializng Tech Innovatns
+886,EGRMGMT580, Decision Models
+887,EGRMGMT590, Adv Topics In Eng Mgmt
+888,EGRMGMT591, Spec Read In Engineering Mgmt
+889,ENERGY231, Energy And Environment
+890,ENERGY239, Our Changing Atmosphere
+891,ENERGY310, Intro To Energy Engineering
+892,ENERGY390, Special Topics In Energy
+893,ENERGY395, Connections In Energy: Project
+894,ENERGY520, Resource & Environ Econ I
+895,ENERGY620, Energy Finance
+896,ENERGY630, Transportation And Energy
+897,ENERGY635, Energy Economics And Policy
+898,ENERGY711, Energy & Environment
+899,ENERGY716, Modeling For Energy Systems
+900,ENERGY727, Energy Law
+901,ENERGY795, Connections In Energy: Project
+902,ENERGY811, Sustainable Syst Theor & Drivr
+903,ENERGY835, Environmental Law
+904,ENGLISH89,Yr Sem Lit (Top)
+905,ENGLISH90, Special Topics In Literature
+906,ENGLISH110, Intro Creative Writing
+907,ENGLISH171, Rep American Writers
+908,ENGLISH173, The Ethics Of Democracy
+909,ENGLISH181, Intro To Film Studies
+910,ENGLISH182, Reading Historically
+911,ENGLISH184, Readings In Genre
+912,ENGLISH190, Focus Prog Sem Lit (Top)
+913,ENGLISH202, Intro To Performance Studies
+914,ENGLISH220, Intro To The Writing Of Poetry
+915,ENGLISH221, Intro. To The Writing Of Fict.
+916,ENGLISH222,F
+917,ENGLISH224, Writing The Tv Drama Series
+918,ENGLISH225, Writing The Movie
+919,ENGLISH226, Dramatic Writing
+920,ENGLISH244, Modern European Short Fiction
+921,ENGLISH247, Victorian Lit
+922,ENGLISH251,1945
+923,ENGLISH279, Documentary Poetry
+924,ENGLISH290, Sp Top In Lang. & Lit
+925,ENGLISH310, The Business Of Art And Media
+926,ENGLISH312, Arts In Ny: Thematic Approach
+927,ENGLISH313, Internship In Ny
+928,ENGLISH336, Shakespeare Before 1600
+929,ENGLISH338, Milton
+930,ENGLISH377, Contemporary Novel
+931,ENGLISH379, Fictions That Mark The Moment
+932,ENGLISH380, Images Of Black Masculinity
+933,ENGLISH390, Single Amer Author (Top)
+934,ENGLISH395, Language And Society
+935,ENGLISH396, Language In Immigrant America
+936,ENGLISH421, Adv Workshop Wtg. Fiction
+937,ENGLISH490, Special Topics Lang/Lit
+938,ENGLISH491, Independent Study
+939,ENGLISH493, Research Independent Study
+940,ENGLISH496, Distinctn Creat Wr Ind St
+941,ENGLISH498, Distinctn Crit Res Ind St
+942,ENGLISH540, Restora/18Th C Lit (Top)
+943,ENGLISH545, Romantic Lit (Top)
+944,ENGLISH590, Sp Top Criticism/Theory/Meth
+945,ENGLISH620,Makers
+946,ENGLISH691, Black Sonic
+947,ENGLISH890, Special Topics Seminar
+948,ENRGYEGR310, Intro To Energy Engineering
+949,ENRGYEGR490, Special Topics In Energy Engin
+950,ENRGYENV625," Energy, Markets & Innovation"
+951,ENRGYENV898, Special Topics
+952,ENVIRON89,Year Seminar (Top)
+953,ENVIRON102, Intro To Environ Sci/Pol
+954,ENVIRON148, Genomics Of Symbiosis
+955,ENVIRON205, Marine Megafauna
+956,ENVIRON210, Conserving The Variety Of Life
+957,ENVIRON216, Environment And Conflict
+958,ENVIRON226, Field Meth Earth/Env Sci
+959,ENVIRON231, Energy And Environment
+960,ENVIRON239, Our Changing Atmosphere
+961,ENVIRON245, Sustainability Theory/Practice
+962,ENVIRON273, Marine Ecology
+963,ENVIRON276," Denial, Faith, Reason"
+964,ENVIRON281, Cons/Mgt Protect Area S Africa
+965,ENVIRON282, Env Sci/Pol Of Tropics
+966,ENVIRON284, S African Ecosystems
+967,ENVIRON285, Field Research
+968,ENVIRON286, Marine Policy
+969,ENVIRON332, Environmental Justice
+970,ENVIRON344, Plant Diversity In The Field
+971,ENVIRON348, Global Environmental Politics
+972,ENVIRON362, Changing Oceans
+973,ENVIRON369, Biological Oceanography
+974,ENVIRON373, Sen Phys/Bhv Mar Animals
+975,ENVIRON376, Marine Mammals
+976,ENVIRON377, Marine Invertebrate Zoology
+977,ENVIRON390, Sp Top Environ Sci/Pol
+978,ENVIRON391, Independent Study
+979,ENVIRON393, Research Independent Study
+980,ENVIRON394, Research Independent Study
+981,ENVIRON445, Marine Climate Change
+982,ENVIRON476, Data Analysis In Marine Sci.
+983,ENVIRON501, Environmental Toxicology
+984,ENVIRON505, Functional Ecology Of Trees
+985,ENVIRON520, Resource & Environ Econ I
+986,ENVIRON521, Resource & Environ Econ Ii
+987,ENVIRON532, Evaluation Public Expenditures
+988,ENVIRON538, Environ Health: Econ And Polic
+989,ENVIRON540, Chem Fate Org Compounds
+990,ENVIRON542, Environmental Aquatic Chem
+991,ENVIRON543, Water Coop/Conflict
+992,ENVIRON549, California Water Crises
+993,ENVIRON550, Land Use Principles/Pol
+994,ENVIRON552, Climate And Society
+995,ENVIRON559, Fund Of Gis And Geospat Analy
+996,ENVIRON569, Should I Eat Fish?
+997,ENVIRON575, Biodiversity Sci And App
+998,ENVIRON579, Collective Action
+999,ENVIRON590, Special Topics
+1000,ENVIRON593, In Studies & Projects
+1001,ENVIRON603, Air Quality: Management
+1002,ENVIRON604, Air Quality: Human Health Eff
+1003,ENVIRON623, Ecol Divrsty & Climate Chnge
+1004,ENVIRON630, Transportation And Energy
+1005,ENVIRON633, Crit Rdgs In Env Epidemiology
+1006,ENVIRON635, Energy Economics And Policy
+1007,ENVIRON658, Applied Qual Resrch Methods
+1008,ENVIRON701, Forest Measurements
+1009,ENVIRON703, Conserva Bio:Theory/Prac
+1010,ENVIRON704, Biological Oceanography
+1011,ENVIRON710, Appl Data Analy Env Sci
+1012,ENVIRON711, Energy & Environment
+1013,ENVIRON714, Landscape Ecology
+1014,ENVIRON716, Modeling For Energy Systems
+1015,ENVIRON734, Watershed Hydrology
+1016,ENVIRON737, Envl Educat & Interpretatn
+1017,ENVIRON745, Marine Climate Change
+1018,ENVIRON753, Sen Phys/Bhv Mar Animals
+1019,ENVIRON755,Based Env Mgmt
+1020,ENVIRON762,Trends
+1021,ENVIRON763, Forest Mgmnt Travel Sem
+1022,ENVIRON764, Appl Diff Equa Env Sci
+1023,ENVIRON767, Entrepreneurial Experience
+1024,ENVIRON769, Hydrology Modeling
+1025,ENVIRON773, Marine Ecology
+1026,ENVIRON775, Ocean & Coastl Law & Pol
+1027,ENVIRON776, Marine Mammals
+1028,ENVIRON786, Marine Policy
+1029,ENVIRON788, Marine Invertebrate Zoo
+1030,ENVIRON811, Sustainable Syst Theor & Drivr
+1031,ENVIRON812, Wetlands Ecology/Mgmnt
+1032,ENVIRON823, Ecol Resilience & Ecosys Mgt
+1033,ENVIRON829, Natural Resource Economics
+1034,ENVIRON835, Environmental Law
+1035,ENVIRON841, Eco Perspectives: Indiv/Cmty
+1036,ENVIRON847, Seminar In Toxicology
+1037,ENVIRON849, Doctoral Student Seminar
+1038,ENVIRON857, Satellite Remote Sensing
+1039,ENVIRON859, Adv Geospatial Analysis
+1040,ENVIRON860, Political Ecology
+1041,ENVIRON869, Environmental Law Clinic
+1042,ENVIRON876, Data/Time Analysis Marine Sci
+1043,ENVIRON886, Current Top In Marine Consrvtn
+1044,ENVIRON887, Policy Analysis Of The Commons
+1045,ENVIRON894, Wri. Pub. & Review Sci. Paper
+1046,ENVIRON896, Professional Communications
+1047,ENVIRON898, Program Area Seminar
+1048,ENVIRON899, Master'S Project
+1049,ENVIRON960, Del: Making A Difference
+1050,ENVIRON961, Del: Ecosystm Sci & Mgmt
+1051,ENVIRON962, Del: Economics Of Envrmntl Mgt
+1052,ENVIRON966, Del: Prof Writing Course
+1053,ENVIRON972, Del: Making Env Decisions
+1054,ENVIRON997, Del: Ind Studies And Projects
+1055,ENVIRON999, Del: Master'S Project
+1056,EOS101, The Dynamic Earth
+1057,EOS102, The Dynamic Oceans
+1058,EOS201, Earth Materials
+1059,EOS202, Atmosphere And Ocean Dynamics
+1060,EOS226, Field Meth Earth/Env Sci
+1061,EOS230, Meteoritics/Solar System Hist
+1062,EOS231, Energy And Environment
+1063,EOS273, Biological Oceanography
+1064,EOS315," Waves, Beaches, Coastline Dyna"
+1065,EOS323, Landscape Hydrology
+1066,EOS364, Changing Oceans
+1067,EOS374, Marine Ecology
+1068,EOS377, Marine Invertebrate Zoology
+1069,EOS391, Independent Study
+1070,EOS393, Research Independent Study
+1071,EOS394, Research Independent Study
+1072,EOS401, Geology Of North Carolina
+1073,EOS527, International Water Resources
+1074,EOS550, Climate And Society
+1075,EOS704, Biological Oceanography
+1076,EOS715, Intro Coastal Environ Change
+1077,EOS723, Landscape Hydrology
+1078,EOS791, Independent Study
+1079,EPH301, Research In Epi & Public Healt
+1080,ETHICS129, Human Rights & World Politics
+1081,ETHICS160, Globalization/Corp Citizenship
+1082,ETHICS170, Liberty And Equality
+1083,ETHICS171, The Ethics Of Democracy
+1084,ETHICS188, Amer Perspec On Citizenship
+1085,ETHICS190, Sp Top In Ethics (Focus)
+1086,ETHICS199," Refugees, Rights, Resettlement"
+1087,ETHICS253, Pursuit Of Purpose
+1088,ETHICS259, News/Moral Battleground
+1089,ETHICS285," Denial, Faith, Reason"
+1090,ETHICS373,Ind/East
+1091,ETHICS493, Research Independent Study
+1092,ETHICS947, Comparative Religious Studies
+1093,EVANTH101, Intro Evolutionary Anthro
+1094,EVANTH212, Evol & Social Structure
+1095,EVANTH235, Primate Anatomy
+1096,EVANTH253, Primate Ecology
+1097,EVANTH257, Hunters And Gatherers
+1098,EVANTH285, Human Health Evol Perspective
+1099,EVANTH333, The Human Body
+1100,EVANTH334, Human Osteology
+1101,EVANTH344, Primate Field Biology
+1102,EVANTH359, Primate Conservation
+1103,EVANTH391, Independent Study
+1104,EVANTH393, Research Independent Study
+1105,EVANTH495, Adv Research Evol/Anthopology
+1106,EVANTH514, Human Evolutionary Genomics
+1107,EVANTH532, Craniodental Anat & Physiology
+1108,EVANTH580, Ethics In Evolutionary Anthro
+1109,EVANTH730, Gross Human Anatomy
+1110,EVANTH741, Eco Perspectives: Indiv/Cmty
+1111,EVANTH743, Ecology Seminar
+1112,EVANTH791, Independent Study
+1113,EVANTH793, Research In Evanth
+1114,FIELDEDU4, Student Pastor Appt/Call
+1115,FIELDEDU6, Fieldedu Continuation
+1116,FINANCE524, Foundations Of Capital Markets
+1117,FINANCE525, Foundatns Of Corporate Finance
+1118,FINANCE645, Global Financial Mgmnt
+1119,FINANCE646, Corporate Finance
+1120,FINANCE647, Investment
+1121,FINANCE648, Derivatives
+1122,FINANCE653, Fixed Income Securities
+1123,FINANCE654, Adv Corporate Finance
+1124,FINANCE656, Global Asset Allocation
+1125,FINANCE658, Corporate Restructuring
+1126,FINANCE660, Venture Cap/Priv Equity
+1127,FINANCE898, Special Topics
+1128,FINANCE899, Independent Study (Top)
+1129,FOCUS195, Special Topics In Focus
+1130,FREETIME450, Free Time
+1131,FRENCH101, Elementary French 1
+1132,FRENCH102, Elementary French 2
+1133,FRENCH203, Intermed French Lang/Cul
+1134,FRENCH204, Adv Intermed Fr Lang/Cul
+1135,FRENCH301, Adv Fr Lang/Writ Workshp
+1136,FRENCH302, Cultural/Literary Persp
+1137,FRENCH303, Fr For Current Affairs
+1138,FRENCH304, French Comp/Translation
+1139,FRENCH325, Glbl Displacement: Voix Franc
+1140,FRENCH327, French For Freshmen/Sophomores
+1141,FRENCH335,Usa
+1142,FRENCH337, French Scientists Write
+1143,FRENCH343, Advanced Expression
+1144,FRENCH390, French Lit/Culture (Top)
+1145,FRENCH393, Research Independent Study
+1146,FRENCH414, Comics/Culture: Images
+1147,FRENCH420, Le Danger De La Lecture
+1148,FRENCH493, Research Independent Study
+1149,FRENCH495, Honors Thesis
+1150,FRENCH690, French Lit Modern Era
+1151,FRENCH790, Topics In French Studies
+1152,FRENCH791, Special Readings
+1153,FUQINTRD565, Consequential Leadership 1
+1154,FUQINTRD566, Consequential Leadership 2
+1155,FUQINTRD676, Global Markets Institutions 2
+1156,FUQINTRD680, Global Markets Institutions 2
+1157,FUQINTRD685, Culture Civilizn Leadership 2
+1158,FUQINTRD689, Culture Civilizn Leadership 2
+1159,FUQINTRD693, Choice Decisions & Mkt Failure
+1160,GENOME122, Genetics And Epigenetics
+1161,GENOME128, Evolutionary Genomics
+1162,GENOME138, Synthetic Genomics
+1163,GENOME148, Genomics Of Symbiosis
+1164,GENOME258," Race, Genomics, And Society"
+1165,GENOME293, Research Independent Study
+1166,GENOME294, Research Independent Study
+1167,GENOME337, French Scientists Write
+1168,GENOME341, Ethics Of Infectious Disease
+1169,GENOME369, Public Health In America
+1170,GENOME417, Genetic Engineer/Biotech
+1171,GENOME502, Communicating Science & Bioeth
+1172,GERMAN89,Year Seminar (Top)
+1173,GERMAN101,Year German I
+1174,GERMAN102,Year German Ii
+1175,GERMAN111,Year German
+1176,GERMAN203, Intermediate German I
+1177,GERMAN204, Intermediate German Ii
+1178,GERMAN210, Intermed Conversation Practice
+1179,GERMAN212, Intensive Intermediate German
+1180,GERMAN243, Modern European Short Fiction
+1181,GERMAN270, Film Noir
+1182,GERMAN305, Adv German I: Culture/Society
+1183,GERMAN310, Advanced Conversation Practice
+1184,GERMAN312, Adv Intens German Lang/Culture
+1185,GERMAN320, Environ Policy Europe
+1186,GERMAN321, Economics Of A United Europe
+1187,GERMAN322, Berlin:Architecture/Art/City
+1188,GERMAN338, Graphic Novels
+1189,GERMAN380," Marx, Nietzsche, Freud"
+1190,GERMAN387, Germany Confronts Holocaust
+1191,GERMAN430, German Literature And Culture
+1192,GERMAN493, Research Independent Study
+1193,GERMAN501, German Academic Research I
+1194,GERMAN790, Literary Theory (Top)
+1195,GERMAN995, Grad Colloquium
+1196,GHS301, Global Health Stdy Prog
+1197,GHSR300, Global Health Student Research
+1198,GLHLTH89, First Year Seminar (Top)
+1199,GLHLTH101, Fundamentals Of Global Health
+1200,GLHLTH142, History Of Chinese Medicine
+1201,GLHLTH174," Intro Medicine, Science & Tech"
+1202,GLHLTH188, Global Health Communication
+1203,GLHLTH189, Global Health And Progress
+1204,GLHLTH210, Global Health Ethics
+1205,GLHLTH258," Race, Genomics, And Society"
+1206,GLHLTH290, Special Topics
+1207,GLHLTH302, Narratives Of Living With Hiv
+1208,GLHLTH303, Global Health Systems
+1209,GLHLTH304, Human Health Evol Perspective
+1210,GLHLTH321, Medical Anthropology
+1211,GLHLTH325, Glbl Displacement: Voix Franc
+1212,GLHLTH326," Health, Culture, Latino Commun"
+1213,GLHLTH340, Us Health Disparities
+1214,GLHLTH341, Ethics Of Infectious Disease
+1215,GLHLTH363, Fund. Of Global Mental Health
+1216,GLHLTH371, Rsrch Methods In Global Health
+1217,GLHLTH391, Independent Study In Gh
+1218,GLHLTH393, Research Ind Study In Gh
+1219,GLHLTH395, Connections In Global Health
+1220,GLHLTH481, Living/Dying/Healing In Russia
+1221,GLHLTH501, Global Health Capstone
+1222,GLHLTH533, Water Coop/Conflict
+1223,GLHLTH538, Environ Health: Econ And Polic
+1224,GLHLTH634, Air Quality: Human Health Eff
+1225,GLHLTH635, Crit Rdgs In Env Epidemiology
+1226,GLHLTH641,Communicable Diseases
+1227,GLHLTH660, Global Mental Health
+1228,GLHLTH670, Global Nutrition
+1229,GLHLTH673, Global Surgical Care
+1230,GLHLTH701, Gh Challenges
+1231,GLHLTH702, Gh Research: Design/Practice
+1232,GLHLTH705, Biostat & Epid For Gh I
+1233,GLHLTH722," Culture, Health And Illness"
+1234,GLHLTH725, Global Health And Migration
+1235,GLHLTH755, Health Economics
+1236,GLHLTH761, Demographic Measures/Concepts
+1237,GLHLTH781, Research In Global Health
+1238,GLHLTH791, Indepen Study In Global Health
+1239,GLHLTH795, Connections In Global Health
+1240,GLHLTH870, Gh Doctoral Cert Seminar
+1241,GREEK101, Elementary Greek
+1242,GREEK203, Intermediate Greek
+1243,GREEK301, Advanced Greek
+1244,GREEK308, Greek Philosophy
+1245,GREEK491, Independent Study
+1246,GREEK504, Historians
+1247,GREEK691, Directed Reading
+1248,GS705,Masters
+1249,GS710,Campus
+1250,GS711,Graduate
+1251,GS712, Conduct In Rsrch: Dept Forum
+1252,GS720, Academic Writing I
+1253,GS721, Integrated Oral Communication
+1254,GS730, Academic Writing Ii
+1255,GS731, Academic Presentations
+1256,GS740, Advanced Pronunciation
+1257,GS750, Fundamentals College Teaching
+1258,GS755, College Teach Course Design
+1259,GS760, College Teaching & Visual Comm
+1260,GS767, Teaching Diverse Learners
+1261,GS770, Topics Careers Higher Ed
+1262,GS775, Colloq Academic Profession
+1263,GS805, Writing In Nat Sci
+1264,HCVIS580, Hist & Cult Viz Proseminar 1
+1265,HCVIS791, Thesis Research In Hcvis
+1266,HEBREW101, Elementary Modern Hebrew
+1267,HEBREW203, Intermed Modern Hebrew
+1268,HEBREW391, Independent Study
+1269,HGP301, Research In Hgp
+1270,HINDI101, Elementary Hindi
+1271,HINDI203, Intermediate Hindi
+1272,HINDI305, Advanced Hindi
+1273,HINDI391, Independent Study
+1274,HINDI407, Issues In Hindi Lang/Soc I
+1275,HINDI791, Independent Study
+1276,HISTORY89,Year Seminar (Top)
+1277,HISTORY101, Introduction To Global History
+1278,HISTORY103, Comp Appr Global Issues
+1279,HISTORY105, Old Worlds/New Histories
+1280,HISTORY113," Intro Medicine, Science & Tech"
+1281,HISTORY117, Early Modern Europe
+1282,HISTORY125, Doc Exper: A Video Appr
+1283,HISTORY126, Introduction To Oral History
+1284,HISTORY127, Globalization/Corp Citizenship
+1285,HISTORY129, Intro To African Studies
+1286,HISTORY130, Amer Dreams/Amer Realities
+1287,HISTORY152,History At Sea
+1288,HISTORY156, Gtwy Sem: Cold War America
+1289,HISTORY157, Gtwy Sem: Empires/Hst Perspect
+1290,HISTORY162, Gtwy Sem: Asia Global History
+1291,HISTORY185, Gtwy Sem: Premodern Disease
+1292,HISTORY190, Topics In Focus Program
+1293,HISTORY207, Humanitarianism In Africa
+1294,HISTORY214, The Modern Middle East
+1295,HISTORY219, Indian Civilization
+1296,HISTORY221, Us – China Relations
+1297,HISTORY225, Chinese Economic Globalization
+1298,HISTORY227, Emergence Of Modern Japan
+1299,HISTORY230, Greek History
+1300,HISTORY239, History Of Chinese Medicine
+1301,HISTORY245, Europe Before The Crusades
+1302,HISTORY248, History And Culture Of Iran
+1303,HISTORY257, Reformation Europe
+1304,HISTORY261, Germany Confronts Holocaust
+1305,HISTORY271, Modern Britain
+1306,HISTORY275, The Russian Empire
+1307,HISTORY276, Russian Cultural History
+1308,HISTORY279, Modern Terrorism
+1309,HISTORY285, Western Warfare Since 1789
+1310,HISTORY311," Men, Women, And Sports"
+1311,HISTORY315, Emergence Of Atlantic Basin
+1312,HISTORY318,1700
+1313,HISTORY323, China And The Silk Roads
+1314,HISTORY325," Denial, Faith, Reason"
+1315,HISTORY326, Colonial Latin America
+1316,HISTORY327,Brazil Culture/Hst
+1317,HISTORY330, Intro Contem Latin Amer
+1318,HISTORY333, Social Engineering & Movements
+1319,HISTORY343, The History Of Modern America
+1320,HISTORY348, Civil Rights Movement
+1321,HISTORY350, Memory Bandits
+1322,HISTORY351, Islam In The Americas
+1323,HISTORY362,Present
+1324,HISTORY365, Inventing Sickness
+1325,HISTORY369, Public Health In America
+1326,HISTORY386,Africa/Democracy
+1327,HISTORY390,Adm St Abr (Top)
+1328,HISTORY391, Independent Study
+1329,HISTORY393, Research Independent Study
+1330,HISTORY396, Racial Justice: Us & S Africa
+1331,HISTORY403, Politics Of Memory
+1332,HISTORY406, American Indians To 1815
+1333,HISTORY411, Historicizing Whiteness
+1334,HISTORY464, Cap Sem: Geopol Of War/Empire
+1335,HISTORY470, Cap Sem: Leadershp In Amer Hst
+1336,HISTORY481, Cap Sem: Age Of Jim Crow
+1337,HISTORY495, Senior Thesis Seminar
+1338,HISTORY507, Asian Studies: Fields&Methods
+1339,HISTORY518, East Asian Treaty Ports
+1340,HISTORY567, American Grand Strategy
+1341,HISTORY577, Hist/Phil Perspect On Science
+1342,HISTORY590, Topics In History Seminar
+1343,HISTORY701, Research Seminar In History
+1344,HISTORY703, Focusing On Tchng & Pedagogy
+1345,HISTORY704, Focusing Prep Port Prelim Cert
+1346,HISTORY790, Latin American History (Top)
+1347,HISTORY791, Reading Top: Independent Study
+1348,HISTREL763, Intro To Jewish Prayer
+1349,HISTREL999, Directed Study
+1350,HISTTHEO810, Christology Before Nicaea
+1351,HISTTHEO999, Directed Study
+1352,HLTHMGMT705, Seminars In Health Care 1
+1353,HLTHMGMT708, Fund Of Health Sector Mgmt 4
+1354,HLTHMGMT709, Fund Of Health Sector Mgmt 5
+1355,HLTHMGMT710," Institutions, Systems & Policy"
+1356,HLTHMGMT711, Health Care Markets
+1357,HLTHMGMT712, Medical Device Strategy
+1358,HLTHMGMT714, Health Care Provider Strategy
+1359,HLTHMGMT716, Mgmt Of Health System & Policy
+1360,HLTHMGMT717, Biotech And Pharma Strategy
+1361,HLTHMGMT718, Life Science Product Strategy
+1362,HLTHMGMT896, Practicum (Topics)
+1363,HLTHSCI501, Human Structure
+1364,HLTHSCI502, Cellular Sciences
+1365,HLTHSCI504, Medical A&S Seminar I
+1366,HLTHSCI507, Discovery / Journal Club I
+1367,HLTHSCI509, Medical Statistics
+1368,HLTHSCI511,Basic
+1369,HLTHSCI512, Emt Clinicals I
+1370,HOUSECS59, House Course (Sp Top)
+1371,HUMANDEV224, Human Development
+1372,HUMANDEV391, Independent Study Hum Dev
+1373,HUMANDEV401, Res Appren In Human Dev
+1374,HUMANDEV493, Research Independ Study
+1375,I&E250, Building Global Audiences
+1376,I&E261, Social Innovation
+1377,I&E272, Documentary And Policy
+1378,I&E290, Special Topics
+1379,I&E352, Innovation & Entrepreneurship
+1380,I&E373, Intellectual Property
+1381,I&E396, New Ventures 3
+1382,I&E499, Entrepreneurship Capstone
+1383,ICS101, Intro To Cultural Anthro
+1384,ICS106, Intro To Latino/A Studies
+1385,ICS110, Intro To African Studies
+1386,ICS111, Traditions In Doc Studies
+1387,ICS128, Human Rights & World Politics
+1388,ICS152,History At Sea
+1389,ICS157, Gtwy Sem: Empires/Hst Perspect
+1390,ICS169, Advertising/Society: Global
+1391,ICS195, Comp Appr Global Issues
+1392,ICS206, Pigging Out: Cultural Pol/Food
+1393,ICS212, Modern European Short Fiction
+1394,ICS213, Comparative Urban Politics
+1395,ICS228, The Politics Of Language
+1396,ICS229, Environment And Conflict
+1397,ICS272,Theory/Prac
+1398,ICS275," Left, Right, And Center"
+1399,ICS276, Modern Terrorism
+1400,ICS290, Selected Topics
+1401,ICS295, Narratives Of Living With Hiv
+1402,ICS299, Ethics Of Infectious Disease
+1403,ICS320, Social Movements/Social Media
+1404,ICS324, Intl Law/Intl Institu
+1405,ICS326, Colonial Latin America
+1406,ICS327, Intro Contem Latin Amer
+1407,ICS329, Politics In Violence
+1408,ICS332, Glbl Displacement: Voix Franc
+1409,ICS333, Storyworlds
+1410,ICS337, Hollywood And Africa
+1411,ICS342, Politics Of Food
+1412,ICS344, Our Culinary Cultures
+1413,ICS348, Women In The Economy
+1414,ICS350, International Political Econ
+1415,ICS351, Racial Justice: Us & S Africa
+1416,ICS359, The U.S. Border
+1417,ICS360, Interpreting Bodies
+1418,ICS368, Documenting Black Experiences
+1419,ICS377, Contemporary Novel
+1420,ICS379, Emerging Markets
+1421,ICS380,Ind/East
+1422,ICS390,Adm St Abr: Adv Top
+1423,ICS392, Independent Study
+1424,ICS395, Language And Society
+1425,ICS396, Language In Immigrant America
+1426,ICS397, Global Health Ethics
+1427,ICS403, Politics Of Memory
+1428,ICS415, Interethnic Intimacies
+1429,ICS424, Medical Anthropology
+1430,ICS440, Games And Culture
+1431,ICS452, Economic Growth
+1432,ICS489, Capstone: Global Studies
+1433,ICS495, Senior Honors Seminar
+1434,ICS506, Politics Of Us Foreign Policy
+1435,ICS515, Interethnic Intimacies
+1436,ICS561, 9/11: Causes/Response/Strategy
+1437,ICS580, Water Coop/Conflict
+1438,ICS605, East Asian Cultural St
+1439,IMMUNOL493, Research Independent Study
+1440,IMMUNOL544, Principles Of Immunology
+1441,IMMUNOL601, Immunology Of Human Diseases
+1442,IMMUNOL658, Structural Biochemistry I
+1443,IMMUNOL659, Structural Biochemistry Ii
+1444,IMMUNOL701, Pillars Of Immunology
+1445,IMMUNOL731, Immunology Seminar
+1446,IMMUNOL732, Immunology Seminar
+1447,IMMUNOL735, Topics In Immunology
+1448,IMMUNOL791, Research In Immunology
+1449,INTERDIS100," Molecules, Cells & Tissues"
+1450,INTERDIS101, Normal Body
+1451,INTERDIS105, Practice Year 1
+1452,INTERDIS110, Global Health
+1453,INTERDIS155, Medical Spanish I
+1454,INTERDIS156, Medical Spanish Ii
+1455,INTERDIS204, Clinical Skills Course
+1456,INTERDIS205, Practice Year 2
+1457,INTERDIS207, Prim Care Ldr Track. (Pclt)
+1458,INTERDIS208, Prim Care Seminar
+1459,INTERDIS305, Practice Year 3
+1460,INTERDIS312, Research Ethics
+1461,INTERDIS314, Medical Statistics
+1462,INTERDIS400, Independent Study
+1463,INTERDIS401, Acute Care Curriculum
+1464,INTERDIS402, Intro Hlthcare Mkts And Policy
+1465,INTERDIS450, Capstone
+1466,INTERDIS470, Clinical Research Experience
+1467,INTERDIS475, Clin Exper
+1468,INTERSES204, Health Policy/Global Health
+1469,ISS110," Information, Society & Culture"
+1470,ISS111, Intro Arts Of The Moving Image
+1471,ISS230, Meteoritics/Solar System Hist
+1472,ISS240,Based Multimedia Communic
+1473,ISS248, Editing For Film And Video
+1474,ISS250, Building Global Audiences
+1475,ISS290, Special Topics
+1476,ISS291, Iss Independent Study
+1477,ISS293, Iss Research Ind Study
+1478,ISS302," Hashtags Memes, Digital Tribes"
+1479,ISS305, Virtual Museums
+1480,ISS320, Unity 3D Prog./Int. Design
+1481,ISS323, Social Movements/Social Media
+1482,ISS354, Web Design And Narrative
+1483,ISS390, Special Topics
+1484,ISS491, Iss Independent Study
+1485,ISS493, Iss Research Ind Study
+1486,ISS535, Chinese Media & Pop Culture
+1487,ISS544, Digital Archaeology
+1488,ISS580, Hist & Cult Viz Proseminar 1
+1489,ISS590, Special Topics In Isis
+1490,ISS591, Independent Study
+1491,ISS691, Independent Study
+1492,ISS791, Individual Research In Iss
+1493,ITALIAN89, First Year Seminar In Italian
+1494,ITALIAN101, Elementary Italian 1
+1495,ITALIAN102, Elementary Italian 2
+1496,ITALIAN190, Focus Topics: Ital Lit & Cult
+1497,ITALIAN203, Intermediate Italian
+1498,ITALIAN204, Adv Intermediate Italian
+1499,ITALIAN220, Modern European Short Fiction
+1500,ITALIAN256, Italian Baroque Art
+1501,ITALIAN301, Intro To Italian Culture
+1502,ITALIAN302, Italy 21St Century
+1503,ITALIAN335, Major Italian Authors
+1504,ITALIAN393, Research Independent Study
+1505,ITALIAN493, Research Independent Study
+1506,ITALIAN583, Dante Studies
+1507,ITALIAN590, Topics Italian Studies
+1508,ITALIAN791, Special Readings
+1509,JEWISHST89, First Year Seminar
+1510,JEWISHST101, Elementary Modern Hebrew
+1511,JEWISHST145, Old Testament/Heb Bible
+1512,JEWISHST203, Intermed Modern Hebrew
+1513,JEWISHST243, Modern European Short Fiction
+1514,JEWISHST258, The Modern Middle East
+1515,JEWISHST369, Germany Confronts Holocaust
+1516,JEWISHST390, Seminar
+1517,JPN101, Elementary Japanese
+1518,JPN203, Intermediate Japanese
+1519,JPN305, Advanced Japanese
+1520,JPN391, Independent Study
+1521,JPN471, Topics In Classical Japanese
+1522,JPN771, Topics In Classical Japanese
+1523,KICHE101, Elementary K'Iche' Maya I
+1524,KICHE203, Intermediate K'Iche' Maya I
+1525,KICHE701, Elementary K'Iche' Maya I
+1526,KICHE703, Intermediate K'Iche' Maya I
+1527,KOREAN101, Elementary Korean
+1528,KOREAN203, Intermediate Korean
+1529,KOREAN305, Advanced Korean
+1530,KOREAN391, Independent Study
+1531,KOREAN408, Issues In Korean Lang/Soc Ii
+1532,LATAMER230, Intro Contem Latin Amer
+1533,LATAMER320, Social Movements/Social Media
+1534,LATAMER330, Middle East And Latin America
+1535,LATAMER590, Sp Top In Latin Amer Culture
+1536,LATIN101, Elementary Latin
+1537,LATIN203, Intermediate Latin
+1538,LATIN301, Advanced Latin
+1539,LATIN324, Latin Epic
+1540,LATIN360, Latin Of Late Republic
+1541,LATIN493, Research Independent Study
+1542,LATIN581, Latin Prose Syntax And Style
+1543,LATIN768, Seminar Lat Lit Ii (Top)
+1544,LAW101, Foundations Of Law
+1545,LAW110, Civil Procedure
+1546,LAW120, Constitutional Law
+1547,LAW130, Contracts
+1548,LAW140, Criminal Law
+1549,LAW160, Legal Anly/Research/Writ
+1550,LAW170, Property
+1551,LAW180, Torts
+1552,LAW190, Distinct Aspects U S Law
+1553,LAW195," Us Legl Anly, Res & Wr Int Std"
+1554,LAW200, Administrative Law
+1555,LAW201, Legal Writing: Craft & Style
+1556,LAW203, Business Strategy For Lawyers
+1557,LAW210, Business Associations
+1558,LAW218, Comp Law:West Legal Trad
+1559,LAW227, Use Of Force In Internatnl Law
+1560,LAW235, Environmental Law
+1561,LAW238, Ethics/Law Of Lawyering
+1562,LAW239, Eth Civil Litigation
+1563,LAW244, Bus & Econ Of Law Firms
+1564,LAW245, Evidence
+1565,LAW250, Family Law
+1566,LAW252, Foreign Relations Law
+1567,LAW255, Federal Income Taxation
+1568,LAW260, Financial Information
+1569,LAW265, First Amendment
+1570,LAW270, Intellectual Property
+1571,LAW285, Labor Relations Law
+1572,LAW287, Commercial/Bankrupt Law
+1573,LAW295, Trusts And Estates
+1574,LAW298, Ocean & Coastal Law & Policy
+1575,LAW301, Aids And The Law
+1576,LAW304, Big Bank Regulation
+1577,LAW306, Corp Crime
+1578,LAW311, Election Law
+1579,LAW317, Criminal Justice Ethics
+1580,LAW319, Analy Methods
+1581,LAW322, Copyright Law
+1582,LAW324, Corporate Restructuring
+1583,LAW327, Energy Law
+1584,LAW329, Education Law
+1585,LAW333, Science Law And Policy
+1586,LAW347, Health Care Law/Policy
+1587,LAW351, Survey Of Immgrat Law & Policy
+1588,LAW358, Struct Vent Cap & Priv Equity
+1589,LAW359, Intro To Law & Economics
+1590,LAW366, Adv/Wrongful Convictions
+1591,LAW369, Patent Law And Policy
+1592,LAW393, Trademark Law/Unfair Com
+1593,LAW400, Health Justice Clinic
+1594,LAW401, Adv. Health Justice Clinic
+1595,LAW402, Hiv/Aids Policy Clinic
+1596,LAW404, Advanced Hiv/Aids Pol. Clinic
+1597,LAW405, Appellate Practice
+1598,LAW407, Fall
+1599,LAW416, Children'S Law Clinic
+1600,LAW421,Trial Litigation
+1601,LAW422, Criminal Trial Practice
+1602,LAW427, Community Enterprise Clinic
+1603,LAW429, Civil Justice Clinic
+1604,LAW431, Advanced Civil Justice Clinic
+1605,LAW437, Int'L Human Rights Clinic
+1606,LAW438, Advanced Human Rights Clinic
+1607,LAW441,Up Ventures Clinic
+1608,LAW443, Environmental Law & Policy Cl
+1609,LAW448, Adv.Guantanamo Defense Clinic
+1610,LAW460, Negotiation
+1611,LAW473, Scholarly Writing Workshop
+1612,LAW493, Wrongful Convictions Clinic
+1613,LAW500, Arbitration: Law And Practice
+1614,LAW510, Legal Interviewing/Counseling
+1615,LAW515, Contract/Drafting Finance
+1616,LAW524, Health/ Med Res For Lawyers
+1617,LAW534, Adv Entrepreneurial Client
+1618,LAW537, Advocacy: Int'L Human Rights
+1619,LAW541,Profit Orgs
+1620,LAW547, Criminal Justice Policy
+1621,LAW553, Empirical Research Methods
+1622,LAW560, Sales/Value Added Tax Law
+1623,LAW562, Sentencing And Punishment
+1624,LAW567," Law, Econ. & Politics Colloq."
+1625,LAW582, National Security Law
+1626,LAW591, Development Finance
+1627,LAW593, Sexuality And The Law
+1628,LAW601, Duke In Dc: Fed. Policymaking
+1629,LAW610, Exchange Program
+1630,LAW611, Readings
+1631,LAW613, Readings In Happiness (Fall)
+1632,LAW617, Environmental Law Rdgs Wrkshp
+1633,LAW621, Externship
+1634,LAW623, Ext. Assoc. Research Paper
+1635,LAW624, Capstone Project
+1636,LAW627, Externship Research Tutorial
+1637,LAW628, Jd Legal Writing
+1638,LAW634,Llmle
+1639,LAW636, Food Law And Policy
+1640,LAW640, Independent Research
+1641,LAW641, Fed Def Office For E Dist Nc
+1642,LAW642, Def Federal Crim Defendant
+1643,LAW655, Spanish For Legal St
+1644,LAW679, Duke In Dc: Externship
+1645,LAW690, Jd/Ma Global Business Law
+1646,LAW699, Continuation Sjd
+1647,LAW700, Sjd Research
+1648,LAW702, Alternative Dispute Resolution
+1649,LAW722, Intl Business Law
+1650,LAW731, Legal Strategy
+1651,LAW737, Environmental Litigation
+1652,LAW771, Advanced Torts
+1653,LAW776, Supreme Court Litigation
+1654,LAW777, Deal Skills
+1655,LAW778, Law & Entrepreneurship
+1656,LAW781, Music Copyright: Law Of Music
+1657,LAW785, Legal Writing In Civ Prac
+1658,LAW796, Writing: Sport Arbitration
+1659,LINGUIST114, The Power Of Poetry
+1660,LINGUIST170, Advertising/Society: Global
+1661,LINGUIST190, Special Topics In Linguistics
+1662,LINGUIST201, Intro To Linguistics
+1663,LINGUIST208, Philosophy Of Mind
+1664,LINGUIST209, Philosophy Of Language
+1665,LINGUIST212," Law, Ethics & Responsibility"
+1666,LINGUIST213, The Politics Of Language
+1667,LINGUIST216, Neuroscience / Human Language
+1668,LINGUIST250, Symbolic Logic
+1669,LINGUIST304, French Comp/Translation
+1670,LINGUIST390,Adm St Abr (Adv Top)
+1671,LINGUIST396, Language In Immigrant America
+1672,LINGUIST451, Language And Society
+1673,LINGUIST494, Research Independent Study
+1674,LINGUIST510, Brain And Language
+1675,LIT89,Year Seminar (Top)
+1676,LIT102,Amer St
+1677,LIT110, Intro To Film Studies
+1678,LIT111, Intro Arts Of The Moving Image
+1679,LIT143, Intro To Latino/A Studies
+1680,LIT190, Sp Topics:Intro To Literature
+1681,LIT201, Intro Global Cultural Studies
+1682,LIT202, Intro To Performance Studies
+1683,LIT211, Indian Cinema
+1684,LIT212, World Of Korean Cinema
+1685,LIT213, Japanese Cinema
+1686,LIT220, Film Genres
+1687,LIT223, Film Noir
+1688,LIT244, Modern European Short Fiction
+1689,LIT248, Chinese Lit/Cult In Translatn
+1690,LIT250, American Immigrant Experiences
+1691,LIT260, Freud And Sexuality
+1692,LIT279, Documentary Poetry
+1693,LIT280," Marx, Nietzsche, Freud"
+1694,LIT285, Existentialism
+1695,LIT290, Sp Top Int'L Lit & Culture
+1696,LIT302," Hashtags Memes,Digital Tribes"
+1697,LIT320, Social Movements/Social Media
+1698,LIT328, Literary Islam
+1699,LIT338, Graphic Novels
+1700,LIT343, Mass Incarceration/Citizenship
+1701,LIT351, Contemporary Novel
+1702,LIT369, Germany Confronts Holocaust
+1703,LIT382, Fictions That Mark The Moment
+1704,LIT390, Sp Top World Lit/Culture
+1705,LIT391, Independent Study
+1706,LIT415, Interethnic Intimacies
+1707,LIT439, Queer China
+1708,LIT440, Games And Culture
+1709,LIT490, Special Topics In Literature
+1710,LIT495, Honors Thesis I
+1711,LIT515, Interethnic Intimacies
+1712,LIT521, Hist/Phil Perspect On Science
+1713,LIT539, Queer China
+1714,LIT571, East Asian Cultural St
+1715,LIT583, Dante Studies
+1716,LIT590, Sp Top In Literature
+1717,LIT620,Makers
+1718,LIT631, Modern Chinese Cinema
+1719,LIT690, Paradigms Modern Thought (Top)
+1720,LIT691, Black Sonic
+1721,LIT890, Seminars In Lit (Topics)
+1722,LIT891, Special Readings
+1723,LS750, Interdisciplinary Studies
+1724,LS760, Selected Topics
+1725,LS770, Selected Topics
+1726,LS780, Selected Topics
+1727,LS850, Master'S Project Colloquium
+1728,LS890, Special Readings
+1729,LS899, Directed Readings
+1730,LSGS101, Intro To Latino/A Studies
+1731,LSGS290, Sp Topics In Latino/A Studies
+1732,LSGS305, Spanish For Heritage Speakers
+1733,LSGS306," Health, Culture, Latino Commun"
+1734,LSGS308," Latino/A Voices In Duke, Durhm"
+1735,LTS760, Intro Christian Worship
+1736,LTS772, Art & Craft: Pub Proclamation
+1737,LTS806, Preaching On Sacraments
+1738,LTS999, Directed Study
+1739,MANAGEMT544, Management And Organizations
+1740,MANAGEMT730," Leadership, Ethics & Organiztn"
+1741,MANAGEMT738, Managing Innovation
+1742,MANAGEMT745, Negotiation
+1743,MANAGEMT747, Leadership
+1744,MANAGEMT748, Mgt Hum Assets/Org Chg
+1745,MANAGEMT749, Ethics In Management
+1746,MANAGEMT754, Mentored Study/Entrepre
+1747,MANAGEMT898, Special Topics
+1748,MANAGEMT899, Independent Study (Top)
+1749,MARKETNG550, Intro To Marketing Analysis
+1750,MARKETNG795, Marketing Management
+1751,MARKETNG796, Market Intelligence
+1752,MARKETNG802, Marketing Of Innovations
+1753,MARKETNG807, Marketing Strategy
+1754,MARKETNG808, Strategy & Tactics Of Pricing
+1755,MAT741, Internship/Reflective Practice
+1756,MAT743, Teaching Diverse Learners
+1757,MATH89,Year Seminar (Top)
+1758,MATH105, Lab Calc/Functions I
+1759,MATH106, Lab Calc/Functions Ii
+1760,MATH111, Laboratory Calculus I
+1761,MATH112, Laboratory Calculus Ii
+1762,MATH122, Intro Calculus Ii With Applica
+1763,MATH161, Mathematical Models In Biology
+1764,MATH165, Cryptography And Society
+1765,MATH191, Independent Study
+1766,MATH202, Multivar Calculus For Econ
+1767,MATH212, Multivariable Calculus
+1768,MATH216, Linear Algebra & Diff Equation
+1769,MATH221, Linear Algebra & Applica
+1770,MATH230, Probability
+1771,MATH281, Problem Solving Seminar
+1772,MATH323, Geometry
+1773,MATH333, Complex Analysis
+1774,MATH340, Advanced Intro Probability
+1775,MATH342, Statistics
+1776,MATH353, Ord And Prtl Diff Equations
+1777,MATH356, Elem Differential Equat
+1778,MATH371, Combinatorics
+1779,MATH391, Independent Study
+1780,MATH392, Independent Study
+1781,MATH393, Research Independent Study
+1782,MATH394, Research Independent Study
+1783,MATH401, Intro Abstract Algebra
+1784,MATH411, Topology
+1785,MATH431, Advanced Calculus I
+1786,MATH465, Intro High Dim Data Analysis
+1787,MATH477, Math Modeling With Writing
+1788,MATH491, Independent Study
+1789,MATH492, Independent Study
+1790,MATH493, Research Independent Study
+1791,MATH494, Research Independent Study
+1792,MATH501, Algebraic Structures I
+1793,MATH531, Basic Analysis I
+1794,MATH541, Applied Stochastic Proc
+1795,MATH551, App Part Diff Equ & Compx Var
+1796,MATH553, Asymp/Perturbation Methods
+1797,MATH555, Ordinary Diff Equations
+1798,MATH561, Numerical Linear Algebra
+1799,MATH581, Mathematical Finance
+1800,MATH601," Groups, Rings, And Fields"
+1801,MATH603, Representation Theory
+1802,MATH611, Algebraic Topology I
+1803,MATH625, Riemann Surfaces
+1804,MATH631, Real Analysis
+1805,MATH635, Functional Analysis
+1806,MATH690, Topology
+1807,MATH743, Linear Models
+1808,MATH771, Teaching College Mathematics
+1809,MATH790, Current Res In Appl Math
+1810,MATH799, Special Readings
+1811,ME221, Struc/Prop Of Solids
+1812,ME321, Me Analysis For Design
+1813,ME331, Thermodynamics
+1814,ME336, Fluid Mechanics
+1815,ME344, Control Systems
+1816,ME391, Projects
+1817,ME421, Mechanical Design
+1818,ME431, Heat And Mass Transfer
+1819,ME442, Intro Robotics/Automation
+1820,ME461, Energy Eng And Environment
+1821,ME473, Aerospace Structures
+1822,ME490, Special Topics
+1823,ME491, Special Projects
+1824,ME493, Engrg Undergrad Fellow
+1825,ME514, Theortical & Applied Poly Sci
+1826,ME517, Electromagnetism Of Fluids
+1827,ME518, Biomedical Materials
+1828,ME524, Finite Element Method
+1829,ME532, Convective Heat Transfer
+1830,ME536, Compressible Fluid Flow
+1831,ME541, Intermediate Dynamics
+1832,ME544, Adv Mechanical Vibrations
+1833,ME555, Advanced Topics
+1834,ME572, Engineering Acoustics
+1835,ME627, Linear System Theory
+1836,ME672, Unsteady Aerodynamics
+1837,ME711, Nanotechnology Materials Lab
+1838,ME717, Biological Engineering Sem
+1839,ME759, Special Readings
+1840,MEDHUM301, Research In Medhum
+1841,MEDICINE205, Medicine
+1842,MEDICINE221, A Taste Of Palliative Care
+1843,MEDICINE223, Gastroenterology
+1844,MEDICINE225, Intro Hospital Med Qual Improv
+1845,MEDICINE226, Intro To Endocrinology
+1846,MEDICINE227, Intro To Consultative Cardio
+1847,MEDICINE229, Adult Nephrology
+1848,MEDICINE401,Va)
+1849,MEDICINE402,Onc
+1850,MEDICINE404, Cardiac Care Unit Subintern
+1851,MEDICINE405,Duke
+1852,MEDICINE406,Va
+1853,MEDICINE407, Int Med/Psychiatry
+1854,MEDICINE408,I
+1855,MEDICINE412, Hospital Medicine
+1856,MEDICINE414, Intro Outpt Prim Care
+1857,MEDICINE415, Clinical Management Of Obesity
+1858,MEDICINE416, Effective Clinical Teaching
+1859,MEDICINE423, Rheumatology
+1860,MEDICINE425, Clinical Coagulation
+1861,MEDICINE427, Hospice And Palliative Med
+1862,MEDICINE428, Metabolism & Endocrinology
+1863,MEDICINE430, Pulmonary Medicine
+1864,MEDICINE431, Adult Allergy & Clin Immun
+1865,MEDICINE434,Duke Or Va
+1866,MEDICINE435, Gastroenterology
+1867,MEDICINE438,Duke Or Va
+1868,MEDICINE440, Clin Infectious Diseases
+1869,MEDICINE442, Clin Arrhythmia Service
+1870,MEDICINE444, Heart Failure & Transplantatn
+1871,MEDICINE445, Consultative Cardiology
+1872,MEDICINE446, Nephrology
+1873,MEDICINE449, Geriatric Medicine
+1874,MEDPHY500, Radiation Physics
+1875,MEDPHY505, Anat/Physiol Med Physicists
+1876,MEDPHY530, Modern Diagnostic Imaging Syst
+1877,MEDPHY541, Nuclear Medicine Physics
+1878,MEDPHY722, Adv Photon Beam Rad Therapy
+1879,MEDPHY726, Practicum On Mc Methods In Mp
+1880,MEDPHY728, Clinical Practicum (Rt)
+1881,MEDPHY731, Adv Med Imaging Physics
+1882,MEDPHY733, Clinical Practicum (Di)
+1883,MEDPHY751, Research Topics In Medphys
+1884,MEDPHY781, Clinical Shadowing
+1885,MEDPHY791, Ind Study In Medical Physics
+1886,MEDREN105, Old Worlds/New Histories
+1887,MEDREN125, Early Modern Europe
+1888,MEDREN190, Special Topics In Focus
+1889,MEDREN201, Music History I
+1890,MEDREN215, Gothic Cathedrals
+1891,MEDREN246, Italian Baroque Art
+1892,MEDREN255,1700
+1893,MEDREN259, Europe Before The Crusades
+1894,MEDREN281, Reformation Europe
+1895,MEDREN331, Shakespeare Before 1600
+1896,MEDREN337, Milton
+1897,MEDREN390, Sem Med/Renaiss St (Top)
+1898,MEDREN493, Research Ind Study: Thesis
+1899,MEDREN550, Early/Med Christianity
+1900,MEDREN615, Dante Studies
+1901,MEDREN690, Renaissance Studies (Top)
+1902,MENG540, Mgmnt High Tech Industries
+1903,MENG550, Meng Internship Project
+1904,MENG551, Meng Internship/Proj Assessmnt
+1905,MENG570, Business Fundamentals For Eng
+1906,MFAEDA711, Doc Fieldwork
+1907,MFAEDA713, Comp Media Studio
+1908,MFAEDA720, Critique I
+1909,MFAEDA722, Critique Iii
+1910,MFAEDA791, Thesis Writing
+1911,MGM293, Research Independent Study I
+1912,MGM593, Research Independent Study
+1913,MGM701, Foundations Of Mgm
+1914,MGM702, Scientific Writing
+1915,MGM703, Infection Biology
+1916,MGM720, Ngs Computational Tools
+1917,MGM778, Genetic Solutns Biol Problems
+1918,MGM790, Topics In Mgm
+1919,MGM793, Research In Mgm
+1920,MGMTCOM504, International Student Bootcamp
+1921,MGMTCOM567, Leadership Communication 1
+1922,MGMTCOM568, Leadership Communication 2
+1923,MGMTCOM572, Managerial Writing
+1924,MGMTCOM899, Independent Study (Top)
+1925,MGRECON547, Fundmntl Of Business Economics
+1926,MGRECON780, Managerial Economics
+1927,MGRECON788, Competitive Analysis
+1928,MIDIP301, Research In Midip
+1929,MILITSCI91, Leadership Laboratory: Fall
+1930,MILITSCI93, Fall
+1931,MILITSCI94, Basic Army Phys Development
+1932,MILITSCI101, Intro Army / Critical Thinking
+1933,MILITSCI201, Innovative Team Leadership Lec
+1934,MILITSCI301, Small Unit Military Leadership
+1935,MILITSCI401, Mission Command & Army Pro
+1936,MMCI301, Research In Mmci
+1937,MMCI511, Cost And Managerial Accounting
+1938,MMCI533, Clinical Informatics Ethics 1
+1939,MMCI534, Clinical Informatics Ethics 2
+1940,MMCI537, Health It Business Solutions
+1941,MMCI538," Data, Information & Knowledge"
+1942,MMCI544, Management And Organizations
+1943,MMCI550, Intro To Marketing Analysis
+1944,MMCI554, Operatns And Supply Chain Mgmt
+1945,MMS190, Special Topics
+1946,MMS210, Managerial Effectiveness
+1947,MMS220, Marketing Management
+1948,MMS272, Borders/Cultures/Demo
+1949,MMS360, Entrepreneurial Opp. And Finan
+1950,MMS370, Managerial Finance
+1951,MMS380, Entrepreneurial Marketing
+1952,MMS390,Adm St Abr (Adv Top)
+1953,MMS396, New Ventures 3
+1954,MMS450, Markets/Mgmnt Capstone
+1955,MMS490, Special Topics
+1956,MOLCAN551, Bme Opt Spect Tissue Optics
+1957,MOLCAN780, Student Seminar
+1958,MOLCAN793, Research In Pharmacology
+1959,MOLCAN818, Molec Mech Oncogenesis
+1960,MOLMED301,Oncolog Sci
+1961,MOLMED302, Regen Med
+1962,MOLMED303,Mol Bas Dis
+1963,MOLMED304,Nutrit/Meta
+1964,MOLMED305,Trans Pharm
+1965,MSIS301, Information Sci Study Prog
+1966,MSLS301, Library Science Study Prog
+1967,MUSIC89,Year Seminar (Top)
+1968,MUSIC101, Class Piano
+1969,MUSIC103, Classical Piano
+1970,MUSIC104, Violin
+1971,MUSIC105, Flute
+1972,MUSIC106, Trumpet
+1973,MUSIC107, Percussion
+1974,MUSIC115, Vocal Diction
+1975,MUSIC120," Music, Sound, And Style"
+1976,MUSIC126, Acoustics And Music
+1977,MUSIC129," Sound,Music, & Moving Image"
+1978,MUSIC130, World Music
+1979,MUSIC140, Introduction To Jazz
+1980,MUSIC143, History Of Rock
+1981,MUSIC144, Meet The Beatles And The 1960S
+1982,MUSIC145,Hop/Rap Music Appreciation
+1983,MUSIC161, Intro To Music Theory (Adv)
+1984,MUSIC171, Jazz Combo/Improvisation I
+1985,MUSIC190, Special Topics In Music
+1986,MUSIC203, Classical Piano
+1987,MUSIC204, Violin
+1988,MUSIC205, Flute
+1989,MUSIC206, Trumpet
+1990,MUSIC207, Percussion
+1991,MUSIC208, Voice
+1992,MUSIC210, Symphony Orchestra
+1993,MUSIC211, Collegium Musicum
+1994,MUSIC212, Djembe Ensemble
+1995,MUSIC213, Opera Workshop
+1996,MUSIC234, Music In East Asia
+1997,MUSIC255, Music History I
+1998,MUSIC258, Music History Iv
+1999,MUSIC261, Theor/Prac Tonal Mus I
+2000,MUSIC274, Computer Music
+2001,MUSIC281, Composition I
+2002,MUSIC288, Music As Biology
+2003,MUSIC290, Sp Top Music History
+2004,MUSIC318, Instrumental Conducting
+2005,MUSIC337,Hop Production
+2006,MUSIC381, Composition Ii
+2007,MUSIC393, Research Independent Study
+2008,MUSIC401, Adv St Mus Performance
+2009,MUSIC461, Theor/Prac Tonal Mus Iii
+2010,MUSIC481, Advanced Composition
+2011,MUSIC590, Selected Topics In Analysis
+2012,MUSIC690, Composition Sem (Topics)
+2013,MUSIC691, Black Sonic
+2014,MUSIC697, Composition
+2015,MUSIC698, Composition
+2016,MUSIC699, Composition
+2017,MUSIC790, Sem Hst Of Mus (Topics)
+2018,MUSIC791, Independent Study
+2019,MUSIC792, In St Perform Prac/Interpre
+2020,MUSIC797, Composition
+2021,MUSIC798, Composition
+2022,MUSIC799, Composition
+2023,NAVALSCI101, Intro To Naval Science
+2024,NAVALSCI189, 1St Year Naval Leadership Lab
+2025,NAVALSCI289, 2Nd Year Naval Leadership Lab
+2026,NAVALSCI331, Naval Ship Systems
+2027,NAVALSCI353, Navigation
+2028,NAVALSCI389, 3Rd Year Naval Leadership Lab
+2029,NAVALSCI423, Leadership And Ethics
+2030,NAVALSCI489, 4Th Year Naval Leadership Lab
+2031,NEURO205, Neurology
+2032,NEURO220, Neurocritical Care
+2033,NEURO401,Internship
+2034,NEURO402, Neurology Clerkship
+2035,NEURO403, Clin Neuro Subspecialties
+2036,NEURO404, Consultative Neurology
+2037,NEUROBIO393, Research Independent Study
+2038,NEUROBIO710, Scientific Writing
+2039,NEUROBIO719, Concepts In Neuroscience I
+2040,NEUROBIO726, Neurobiology Journal Club
+2041,NEUROBIO733, Experiment Design & Statistics
+2042,NEUROBIO751, Neuroscience Bootcamp
+2043,NEUROBIO759, Principles In Cog Neuro I
+2044,NEUROBIO790, Student Seminar (Top)
+2045,NEUROBIO793, Research In Neurobiology
+2046,NEUROBIO795, Special Topics In Neuroscience
+2047,NEUROSCI101, Bio Bases Of Behavior
+2048,NEUROSCI102, Bio Bases Of Behavior (Team)
+2049,NEUROSCI116, Neuroscience / Human Language
+2050,NEUROSCI150, Research Practicum
+2051,NEUROSCI153, Drugs And The Law
+2052,NEUROSCI201, Fundamentals Neurosci
+2053,NEUROSCI211, Brain And Behavior
+2054,NEUROSCI212, Intro Cognitive Neurosci
+2055,NEUROSCI223, Cell And Molec Neurobio
+2056,NEUROSCI252, Philosophy And Neuroscience
+2057,NEUROSCI258, Decision Neuroscience
+2058,NEUROSCI277, Inside The Disordered Brain
+2059,NEUROSCI278, Nature/Nurture
+2060,NEUROSCI288, Music As Biology
+2061,NEUROSCI350, Drug Actions & Reactions
+2062,NEUROSCI376, Contemporary Neurosci Methods
+2063,NEUROSCI380, Functional Neuroanatomy
+2064,NEUROSCI381, Sen Phys/Bhv Mar Animals
+2065,NEUROSCI426, Visual Processing
+2066,NEUROSCI427, Sensory Biology
+2067,NEUROSCI461, Neurobio Learning/Memory
+2068,NEUROSCI493, Research Independent Study 1
+2069,NEUROSCI494, Research Independent Study 2
+2070,NEUROSCI495, Research Independent Study 3
+2071,NEUROSCI496, Research Independent Study 4
+2072,NEUROSCI503, Computational Neuroengineering
+2073,NEUROSCI510, Brain And Language
+2074,NEUROSCI533, Essentials Pharm/Toxicol
+2075,NEUROSCI555, Philosophy Of Mind (Top)
+2076,NEUROSCI751, Neuroscience Bootcamp
+2077,NEUROSCI755, Research Rotation
+2078,NEUROSUR220, Neurosurgical Intervention
+2079,NEUROSUR401, Subi In Neurosurgery
+2080,NEUROSUR402, Intermediate Clin Neurosurgery
+2081,NEUROSUR404,Oncology
+2082,NEWTEST701, N T Greek Reading
+2083,NEWTEST760, Hellenistic Greek
+2084,NEWTEST770, Ex Eng Nt: Acts
+2085,NEWTEST870, Ex Grk N T: Galatians
+2086,NEWTEST950,Roman Phil
+2087,NEWTEST959, Advanced Greek
+2088,NEWTEST999, Directed Study
+2089,NSS301, Research In Nss
+2090,NURSING388, Health Assessment
+2091,NURSING389, Wellness
+2092,NURSING392, Prof Nursing Pp&F
+2093,NURSING393, Phys Homeo Prin Pharm
+2094,NURSING449, Np Res: Family
+2095,NURSING459, Np Res: Adult Prim Care
+2096,NURSING473, Prof Nursing: Team Member
+2097,NURSING474, Nurs Mgmt Adlt Pt W/Hlth Prob
+2098,NURSING475, Gerontological Nursing
+2099,NURSING476, Patho & Pharm Ii
+2100,NURSING477, Population Health Practice
+2101,NURSING483, Prof Nursing: Leader
+2102,NURSING484, Nurse Care Pts W/Hlth Probs
+2103,NURSING502, Health Promotn/Disease Prevntn
+2104,NURSING536, Obesity: Fund Hlthcare Providr
+2105,NURSING537, Exercise Interventions
+2106,NURSING539,Aged Yrs
+2107,NURSING554, Global Clinical Immersion
+2108,NURSING555, Global Patterns Of Health
+2109,NURSING563, Trends Genetics And Genomics
+2110,NURSING564, Intro Medical Spanish
+2111,NURSING565, Intro Medical Spanish Level Ii
+2112,NURSING566, Advanced Medical Spanish
+2113,NURSING567, Adv Medical Spanish Level Ii
+2114,NURSING574, Directed Research
+2115,NURSING575, Independent Study
+2116,NURSING580, Nurse As Scholar I
+2117,NURSING581, Nurse As Scholar Ii
+2118,NURSING582, Population Hlth Global Society
+2119,NURSING583, Prof Tran: Adv Nurs Practice
+2120,NURSING590, Adv Physiology Across Lifespan
+2121,NURSING595,Apn
+2122,NURSING596, Pharm For Advanced Nursing
+2123,NURSING620, Apn Adol Adult Pc
+2124,NURSING621, Apn Pc Adol/Adult Clinical
+2125,NURSING624, Adv Prac Nur Older Adults Did
+2126,NURSING625, Adv Prac Nur Older Adults Clin
+2127,NURSING628, Peds Primary Care Essentials
+2128,NURSING629,C
+2129,NURSING632, Perinatal Care Adv Prac Nur
+2130,NURSING633,Clinical
+2131,NURSING670,Acute Care Didactic I
+2132,NURSING671, Adult Acute Care Clinical I
+2133,NURSING681, Women’S Health Across The Life
+2134,NURSING682, Women’S Health Across The Life
+2135,NURSING690, Neonatal Synthesis
+2136,NURSING691, Peds Primary Care Synthesis
+2137,NURSING692, Peds Acute Care Synthesis
+2138,NURSING694,Gero Pri Cr Pt Synth
+2139,NURSING695, Apn In Family Practice Patient
+2140,NURSING696, Whnp Clinical Synthesis
+2141,NURSING700, Org Theory/Hlth Care Sys
+2142,NURSING702, Business/Finance In Healthcare
+2143,NURSING703, Applied Finance & Budget Plan
+2144,NURSING710, Synthesis Of Specialty Prac
+2145,NURSING715, Database Systems
+2146,NURSING716, Intro To Health Informatics
+2147,NURSING719, Informatics Research Seminar
+2148,NURSING720, Hit Leadership
+2149,NURSING722,Acad
+2150,NURSING725, Synthesis Of Specialty Prac
+2151,NURSING731, Facilitating Student Learning
+2152,NURSING734, Curriculum Development In Nsg
+2153,NURSING735, Educational Program Evaluation
+2154,NURSING738, Role Of The Nurse Educator
+2155,NURSING745, Synthesis: Nurse Educator Role
+2156,NURSING751, Teaching Patients/Communities
+2157,NURSING801, Apn: Cardio Specialty I
+2158,NURSING811, Oncology Specialty I
+2159,NURSING821, Musculoskeletal Care I
+2160,NURSING831,Diabetes
+2161,NURSING840, Epi/Patho Of Hiv/Aids
+2162,NURSING841, Pharm Aspects Of Hiv/Aids
+2163,NURSING842, Social Aspects Of Hiv/Aids
+2164,NURSING845, Agnp Hiv/Aids Primary Care Syn
+2165,NURSING901, Philosophy Of Sci & Theory Dev
+2166,NURSING902, Quantitative Research Designs
+2167,NURSING907, Chronic Illness & Care Systems
+2168,NURSING910, Doctoral Seminar In Nursing Sc
+2169,NURSING911, Introductory Statistics
+2170,NURSING915, Measurement Theory & Practice
+2171,NURSING920, Mentored Teaching Practicum
+2172,NURSING921, Integrated Research Practicum
+2173,NURSING922, Special Readings Sch Nursing
+2174,NURSING925, Advanced Physiology
+2175,NURSING926, Pharm Nurse Anesthetists
+2176,NURSING927, Chem/Phyics Anesthesia
+2177,NURSING934, Adv Prin Anesthesia Ii
+2178,NURSING935, Adv Path Nurse Anesth Ii
+2179,NURSING944, Clinical Anesthesia Practicum
+2180,NURSING947, Clinical Anesthesia Practicum
+2181,NURSING960,Based Pracice 1
+2182,NURSING962, Transforming Nation'S Health
+2183,NURSING964, Effective Leadership
+2184,NURSING966, Quantitative Evaluation
+2185,NURSING968, Compar Interntl Hlth Systems
+2186,NURSING970, Scholarly Writing
+2187,NURSING975, Dnp Capstone
+2188,OBGYN205, Obstetrics And Gynecology
+2189,OBGYN220, Prenatal Diagnosis
+2190,OBGYN221, Intro Reproductive Endocrin
+2191,OBGYN420, Gynecologic Cancer
+2192,OBGYN431, Clin Reproductive Endocrin
+2193,OBGYN447, Clin Obstetrics Subintern
+2194,OBGYN449, Clin Urogyn
+2195,OLDTEST701, Hebrew Reading
+2196,OLDTEST752, Intro O T Interpretation
+2197,OLDTEST760, Intro To Biblical Hebrew
+2198,OLDTEST807, Reading(S) For Our Lives
+2199,OLDTEST860, Hebrew Prose Narrative
+2200,OLDTEST870, Exegesis Hebrew O T
+2201,OLDTEST901, Old Testament And Leadership
+2202,OLDTEST999, Directed Study
+2203,OPERATNS823, Operations Strategy
+2204,OPERATNS899, Independent Study (Top)
+2205,OPHTHAL220, Ophthalmology
+2206,OPHTHAL422, General Ophthalmology
+2207,OPHTHAL425, Pediatric Ophthalmology
+2208,OPTECH151, Orientation Lectures
+2209,OPTECH153, Visual Acuity Assessment
+2210,OPTECH154, Physio & Anat Of The Eye
+2211,OPTECH155, Physical History
+2212,OPTECH156, Cpr
+2213,OPTECH158, Optics And Refractometry
+2214,OPTECH160, Medical Terminology
+2215,OPTECH161, Spectacles
+2216,OPTECH163, Glaucoma And Tonometry
+2217,OPTECH167, Ocular Motility
+2218,OPTECH169, General Psychology
+2219,OPTRS101, Optional Research Studies
+2220,OPTRS301, Optional Research Studies
+2221,OPTRS401, Optional Research Studies
+2222,ORTHO222, Ortho Surgery Experience
+2223,ORTHO402, Ortho Surg Basic Skills
+2224,ORTHO403, Comm Ortho I
+2225,ORTHO421, Frac & Musculoskel Traum
+2226,ORTHO429,I In Orthopaedic Surgery
+2227,ORTHO430, Orthopaedic Sports Medicine
+2228,ORTHO431, Hand/Upper Extremity Surgery
+2229,ORTHO432, Musculoskeletal Oncology
+2230,ORTHO433, Pediatric Orthopaedics
+2231,OVS301, Research In Ovs
+2232,PARISH709, Mission/Evangelism
+2233,PARISH773, Denominational Studies
+2234,PARISH774, Epis Church & Angli Communion
+2235,PARISH777," Wes Found For Miss, Prac, Beli"
+2236,PARISH780, Missional Church & Evangelism
+2237,PARISH787," Power, Inequality, & Recon."
+2238,PARISH790, Topics In Care Of The Parish
+2239,PARISH807, Theology & Spirit Of Place
+2240,PARISH808, Agrarian Theology
+2241,PARISH816,Muslim
+2242,PARISH819, Disunity In Christ
+2243,PARISH999, Directed Study
+2244,PASTCARE761, Intro To Ministry Social Work
+2245,PASTCARE762,Cultural Pastcare
+2246,PASTCARE999, Directed Study
+2247,PATHASST100," Molecules,Cells & Tissues"
+2248,PATHASST217, Special Diagnostic Techniques
+2249,PATHASST321,Duke
+2250,PATHASST322, Vamc
+2251,PATHASST323, Autopsy Pathology I
+2252,PATHASST340, Photography I
+2253,PATHASST359, Lab Technologies And Mgmt
+2254,PATHASST361, Pathol Basis Of Clin Med I
+2255,PATHOL220, What Pathologist Really Do?
+2256,PATHOL293, Research Independent Study
+2257,PATHOL423, Autopsy Pathology
+2258,PATHOL448, Practical Surgical Path
+2259,PATHOL725, Intro Systemic Histology
+2260,PATHOL793, Research Independent Study
+2261,PATHOL855, Graduate Seminar
+2262,PCLT301,Pri Ldr Track
+2263,PEDS205, Pediatrics
+2264,PEDS220, Clin Genetics & Metabolism
+2265,PEDS221, Child Abuse & Family Violence
+2266,PEDS222,Oncology
+2267,PEDS224, Dvlpmntl Care Sick Newborns
+2268,PEDS226, Pediatric Neurology
+2269,PEDS227, Adolescent Medicine
+2270,PEDS228, Pediatric Gastroenterology
+2271,PEDS401, Pediatric Subintern
+2272,PEDS402, Pediatric Gastroenterology
+2273,PEDS410, Advanced Pediatrics
+2274,PEDS411, Pediatric Emer Medicine
+2275,PEDS421, Pediatric Infectious Dis
+2276,PEDS425, Endocrine Disorder Child
+2277,PEDS426, Neonatology
+2278,PEDS427, Ped Hematol /Oncology
+2279,PEDS430, Healthy Lifestyles Program
+2280,PEDS431, Clin Ped Cardiology
+2281,PEDS433, Allergy And Clin Immmunology
+2282,PEDS434, Clin Genetics/Metabolism
+2283,PEDS436, Pediatric Neurology
+2284,PEDS440, Ped Intensive Care Unit
+2285,PEDS441, Pediatric Nephrology
+2286,PEDS446, Ped Stem Cell Transplant Unit
+2287,PERSIAN101, Elementary Persian
+2288,PERSIAN203, Intermediate Persian
+2289,PERSIAN391, Independent Study
+2290,PHARM293, Research Ind Study: Science Ed
+2291,PHARM350, Drug Actions & Reactions
+2292,PHARM393, Research Independent Study
+2293,PHARM493, Research Independent Study
+2294,PHARM495, Research Independent Study
+2295,PHARM533, Essentials Pharm/Toxicol
+2296,PHARM554, Mammalian Toxicology
+2297,PHARM693, Research Ind Study In Sci Educ
+2298,PHARM733, Experiment Design & Statistics
+2299,PHARM780, Student Seminar
+2300,PHARM793, Research In Pharmacology
+2301,PHARM818, Molec Mech Oncogenesis
+2302,PHARM835,Drug Development
+2303,PHARM847, Seminar In Toxicology
+2304,PHIL89,Year Seminar (Top)
+2305,PHIL101, Introduction To Philosophy
+2306,PHIL103, Intro To Philosophy
+2307,PHIL110," Information, Society & Culture"
+2308,PHIL123, Freedom And Responsibility
+2309,PHIL150, Logic
+2310,PHIL155, Reason & Argument
+2311,PHIL207, Poltcl & Soc Phil
+2312,PHIL209, Philosophy Of Language
+2313,PHIL211, Appearance And Reality
+2314,PHIL212, Philosophy Of Mind
+2315,PHIL216, Problems In Ethical Theory
+2316,PHIL217, Ancient/Modern Ethical Theory
+2317,PHIL242, Problems In Phil Of Science
+2318,PHIL246, Prisoner'S Dilemma/Distr Justi
+2319,PHIL250, Symbolic Logic
+2320,PHIL252, Philosophy And Neuroscience
+2321,PHIL262,Theory/Prac
+2322,PHIL285, Existentialism
+2323,PHIL286," Marx, Nietzsche, Freud"
+2324,PHIL290, Seminar Philosophy (Top)
+2325,PHIL291, Fall Independent Study
+2326,PHIL293, Research Independent Stdy
+2327,PHIL345, Philosophy/Method Of Economics
+2328,PHIL465, Ppe Capstone
+2329,PHIL503, Contemp Ethical Theories
+2330,PHIL512, Aristotle
+2331,PHIL541, Hist/Phil Perspect On Science
+2332,PHIL555, Philosophy Of Mind (Top)
+2333,PHIL584, Modern Political Theory
+2334,PHIL590, Special Fields Seminar (Top)
+2335,PHIL640, Philosophical Psychology
+2336,PHIL753, Principles In Cog Neuro I
+2337,PHIL791, Special Readings
+2338,PHIL795, Teaching Philosophy
+2339,PHIL798, Philosophical Interlocution
+2340,PHYASST200, Basic Medical Sciences
+2341,PHYASST201, Physiology
+2342,PHYASST205, Anatomy
+2343,PHYASST210, Diagnostic Methods I
+2344,PHYASST220, Clinical Medicine I
+2345,PHYASST223, Pharmacology I
+2346,PHYASST231, Patient Assessment/Cnsling I
+2347,PHYASST255,Based Medicine I
+2348,PHYASST299, Bridge: Path To Patient Care
+2349,PHYASST300, Primary Care
+2350,PHYASST301, Occupational Medicine
+2351,PHYASST302, Geriatrics
+2352,PHYASST303, Global Health
+2353,PHYASST304, Prevention And Health Promo
+2354,PHYASST305,Based Medicine Ii
+2355,PHYASST306, Integrative Medicine
+2356,PHYASST307, Medical Informatics
+2357,PHYASST308, Peds Healty Lifestyles Program
+2358,PHYASST310, Behavioral Medicine
+2359,PHYASST320, Internal Medicine
+2360,PHYASST321, Cardiology
+2361,PHYASST322, Dermatology
+2362,PHYASST323, Endocrinology
+2363,PHYASST324, Pain Medicine
+2364,PHYASST325, Hematology/Oncology
+2365,PHYASST327, Infectious Medicine
+2366,PHYASST328, Gastroenterology
+2367,PHYASST329, Palliative Care
+2368,PHYASST331, Nephrology
+2369,PHYASST332, Neurology
+2370,PHYASST333, Pulmonary Medicine
+2371,PHYASST334, Rheumatology
+2372,PHYASST336, Medical Icu
+2373,PHYASST337, Coronary Care Unit
+2374,PHYASST338, Radiology
+2375,PHYASST339, Genetics
+2376,PHYASST340, General Surgery
+2377,PHYASST341, Cardiothoracic Surgery
+2378,PHYASST342, Otolaryngology
+2379,PHYASST343, Neurosurgery
+2380,PHYASST344, Orthopaedics
+2381,PHYASST345, Plastic Surgery
+2382,PHYASST346, Sports Medicine
+2383,PHYASST347, Urology
+2384,PHYASST348,Operative Screening Unit
+2385,PHYASST349, Surgical Oncology
+2386,PHYASST350, Emergency Medicine
+2387,PHYASST352, Trauma
+2388,PHYASST353, Surgical Icu
+2389,PHYASST354, Vascular Surgery
+2390,PHYASST355, Transplant Surgery
+2391,PHYASST360, Pediatrics
+2392,PHYASST361, Pediatric Cardiology
+2393,PHYASST362, Peds Cardiothoracic Surgery
+2394,PHYASST363, Peds Hematology/Oncology
+2395,PHYASST364, Peds Allergy/Respiratory
+2396,PHYASST365, Pediatric Endocrinology
+2397,PHYASST366, Peds Infectious Diseases
+2398,PHYASST367, Intensive Care Nursery
+2399,PHYASST368, Peds Emergency Medicine
+2400,PHYASST369, Peds Orthopaedic Surgery
+2401,PHYASST370, Obstetrics/Gynecology
+2402,PHYASST371, Maternal/Fetal Medicine
+2403,PHYASST372, Repro Endocrin & Infertility
+2404,PHYASST381, Ophthalmology
+2405,PHYSEDU89,Year Seminar (Top)
+2406,PHYSEDU101, Cardio Conditioning
+2407,PHYSEDU103, Indoor Cycling
+2408,PHYSEDU104, Circuit Training
+2409,PHYSEDU105, Pilates Mat And Ball
+2410,PHYSEDU106, Advanced Pilates And Barre
+2411,PHYSEDU108, Group Fitness Certification
+2412,PHYSEDU109,Kickboxing
+2413,PHYSEDU113, Weight Training
+2414,PHYSEDU116, Weight Training For Women
+2415,PHYSEDU117, Fitness For Women
+2416,PHYSEDU122, Basketball
+2417,PHYSEDU124, Fencing
+2418,PHYSEDU131, Beginning Golf
+2419,PHYSEDU132, Intermediate Golf
+2420,PHYSEDU133, Advanced Golf
+2421,PHYSEDU135, Beginning Swimming
+2422,PHYSEDU136, Intermediate Swimming
+2423,PHYSEDU137, Endurance Swimming
+2424,PHYSEDU143, Beginning Tennis
+2425,PHYSEDU144, Intermediate Tennis
+2426,PHYSEDU145, Advanced Tennis
+2427,PHYSEDU150, Social Dancing
+2428,PHYSEDU152, Latin Dance
+2429,PHYSEDU159, Self Defense For Women
+2430,PHYSEDU160, Mixed Martial Arts Training
+2431,PHYSEDU161, Aikido
+2432,PHYSEDU162, Intermediate Aikido
+2433,PHYSEDU163, Tae Kwon Do
+2434,PHYSEDU165, Tai Chi
+2435,PHYSEDU166, Intermediate Tai Chi
+2436,PHYSEDU167, Short Staff Aikijo
+2437,PHYSEDU170, Yoga
+2438,PHYSEDU171, Intermediate Yoga
+2439,PHYSEDU172, Massage Therapy
+2440,PHYSEDU176, Beginning Equitation I
+2441,PHYSEDU178, Intermediate Equitation
+2442,PHYSEDU179, Adv Equitation:Hunt Seat
+2443,PHYSEDU180, Outdoor Recreation
+2444,PHYSEDU181, Rock Climbing
+2445,PHYSEDU182, Fly Fishing
+2446,PHYSEDU183, Kayaking
+2447,PHYSEDU192, Independent Study
+2448,PHYSEDU203, Diet And Nutrition
+2449,PHYSEDU207, Exercise And Mental Health
+2450,PHYSEDU212, Sports Media
+2451,PHYSEDU224, Sport Finance
+2452,PHYSEDU240, Theory/Practice Coaching
+2453,PHYSEDU241, Psychology Sport & Performance
+2454,PHYSICS134, Introductory Astronomy
+2455,PHYSICS136, Acoustics And Music
+2456,PHYSICS137, Energy In The 21St Century
+2457,PHYSICS141, General Physics I (Dis)
+2458,PHYSICS142, General Physics Ii
+2459,PHYSICS152," Intro Electric, Magnet, Optics"
+2460,PHYSICS160, 21St Century Physics
+2461,PHYSICS161, Intro Experimental Physics I
+2462,PHYSICS162, Intro Experimental Physics Ii
+2463,PHYSICS174, Frontiers Of Biophysics
+2464,PHYSICS264, Optics & Modern Physics
+2465,PHYSICS320, Optics And Photonics
+2466,PHYSICS362, Electricity & Magnetism
+2467,PHYSICS414, Introduction To Biophysics
+2468,PHYSICS417, Adv Physics Lab & Sem
+2469,PHYSICS464, Quantum Mechanics I
+2470,PHYSICS491, Independent Study: Adv Top
+2471,PHYSICS493, Research Independent Study
+2472,PHYSICS495, Thesis Independent Study
+2473,PHYSICS509, Quantum Nanophysics
+2474,PHYSICS549, Optics & Photonics Seminar Ser
+2475,PHYSICS590, Topics In Theoretical Physics
+2476,PHYSICS621, Advanced Optics
+2477,PHYSICS760, Math Methods Of Physics
+2478,PHYSICS761, Classical Mechanics
+2479,PHYSICS763, Statistical Mechanics
+2480,PHYSICS765, Graduate Advanced Physics
+2481,PHYSICS766, Physics Research Seminar
+2482,PHYSICS771,Course: Current Research
+2483,PHYSICS791, Special Readings
+2484,PHYSICS995, Graduate Training Internship
+2485,PJMS135, Intro To Audio Documentary
+2486,PJMS290, Special Topics
+2487,PJMS335,Usa
+2488,PJMS365, Television Journalism
+2489,PJMS366, Magazine Journalism
+2490,PJMS367, News Writing And Reporting
+2491,PJMS369, Advanced Multimedia Production
+2492,PJMS371, News/Moral Battleground
+2493,PJMS372," Information, Ethics And Policy"
+2494,PJMS373, Intellectual Property
+2495,PJMS391, Independent Study
+2496,PJMS410, Policy Journalism/Media St
+2497,POLSCI89,Year Seminar (Top)
+2498,POLSCI105, Doc Exper: A Video Appr
+2499,POLSCI108, Intro To African Studies
+2500,POLSCI110, Comp Appr Global Issues
+2501,POLSCI116, Amer Political System
+2502,POLSCI125, Development Politic & Practice
+2503,POLSCI145, Intro To Political Economy
+2504,POLSCI160, Introduction To Spc
+2505,POLSCI170, Liberty And Equality
+2506,POLSCI172, Us Racial Attitudes & Politics
+2507,POLSCI175, Freedom And Responsibility
+2508,POLSCI176, Human Rights & World Politics
+2509,POLSCI180, Nature Of Freedom
+2510,POLSCI185, The Politics Of Language
+2511,POLSCI188, Amer Perspec On Citizenship
+2512,POLSCI190, Special Topics In Polsci
+2513,POLSCI203, Women/Political Process
+2514,POLSCI224, Inequality And Politics
+2515,POLSCI232, Introduction To Terrorism
+2516,POLSCI235, Comparative Urban Politics
+2517,POLSCI236, Research In Urban Politics
+2518,POLSCI240, Political Psychology
+2519,POLSCI242, Campaigns And Elections
+2520,POLSCI249," Denial, Faith, Reason"
+2521,POLSCI272,Theory/Prac
+2522,POLSCI275," Left, Right, And Center"
+2523,POLSCI290,Adm St Abr: Adv Top
+2524,POLSCI291, Soph/Jun Ind Study Pol Theory
+2525,POLSCI295, Environ Policy Europe
+2526,POLSCI310, Pol Analy Pub Pol Making
+2527,POLSCI317, Global Corruption
+2528,POLSCI318, Congress And President
+2529,POLSCI319, Us Comparative State Politics
+2530,POLSCI321, Intl Law/Intl Institu
+2531,POLSCI322, Middle East Politics
+2532,POLSCI327, Eco/Pol Perform. Civilizations
+2533,POLSCI329, Politics In Violence
+2534,POLSCI331, Prisoner'S Dilemma/Distr Justi
+2535,POLSCI333, Democracy And Social Choice
+2536,POLSCI336, Racial Justice: Us & S Africa
+2537,POLSCI337,Africa/Democracy
+2538,POLSCI343, The U.S. Border
+2539,POLSCI348, Global Environmental Politics
+2540,POLSCI350, International Political Econ
+2541,POLSCI355, Compar Health Care Sys
+2542,POLSCI359, Social Engineering & Movements
+2543,POLSCI367, Environment And Conflict
+2544,POLSCI368, Wealth And Poverty Of Nations
+2545,POLSCI378," Marx, Nietzsche, Freud"
+2546,POLSCI388," Information, Ethics And Policy"
+2547,POLSCI390, Spec Top In Pol Institutions
+2548,POLSCI391, Sen Ind Study Political Theory
+2549,POLSCI393, Soph/Jun Res Ind Study Theory
+2550,POLSCI440, Games And Culture
+2551,POLSCI449, Ppe Capstone
+2552,POLSCI493, Sen Res Ind Study Poltheory
+2553,POLSCI497, Senior Seminar In Spc
+2554,POLSCI536, Choosing In Groups
+2555,POLSCI544, 9/11: Causes/Response/Strategy
+2556,POLSCI547, Politics Of Us Foreign Policy
+2557,POLSCI562, American Grand Strategy
+2558,POLSCI582, Contemp Ethical Theories
+2559,POLSCI584, Modern Political Theory
+2560,POLSCI630, Probability & Linear Models
+2561,POLSCI642, Global Inequality Research
+2562,POLSCI644, Pol Economy Of Inequality
+2563,POLSCI659, Civil Wars
+2564,POLSCI690, Adv Top In Pol Institutions
+2565,POLSCI707, Marine Policy
+2566,POLSCI711," Politics, Groups & Identities"
+2567,POLSCI713, Wrkshp Political Behav/Inden
+2568,POLSCI715, Core In Political Institutions
+2569,POLSCI718, Core In American Politics
+2570,POLSCI720, Capitalism
+2571,POLSCI721, Authoritarian Institutions
+2572,POLSCI722, Election Law
+2573,POLSCI728, Workshop In Pol Institutions I
+2574,POLSCI743, Workshop In Pol Methodology I
+2575,POLSCI749, Advanced Game Theory
+2576,POLSCI758, Wrkshp In Political Economy I
+2577,POLSCI763, Foundational Scholarship In Ir
+2578,POLSCI773, Wrkshp Secur/Peace/Conflict I
+2579,POLSCI788, Wrkshp Normative Pol Theory
+2580,POLSCI796, Research Seminar In Pol Sci I
+2581,POLSCI798, Individual Research
+2582,POLSCI799, Special Readings
+2583,POLSCI890, Political Theory
+2584,PORTUGUE101, Elementary Portuguese I
+2585,PORTUGUE203, Intermediate Portuguese
+2586,PORTUGUE260,Brazil Culture/Hst
+2587,PORTUGUE301, Adv Colloq Portuguese
+2588,PORTUGUE393, Research Independent Study
+2589,PORTUGUE493, Research Independent Study
+2590,PORTUGUE791, Special Reading
+2591,PREACHNG758,Christian Preach
+2592,PREACHNG770, Theology In Preaching
+2593,PREACHNG773, Art & Craft: Pub Proclamation
+2594,PREACHNG774, Women Preaching
+2595,PREACHNG806, Preaching On Sacraments
+2596,PREACHNG807, Balm In Gilead
+2597,PREACHNG999, Directed Study
+2598,PSP301, Research In Psp
+2599,PSY89,Year Seminar (Top)
+2600,PSY101, Introductory Psychology
+2601,PSY102, Cognitive Psychology
+2602,PSY104, Social Psychology
+2603,PSY105, Abnormal Psychology
+2604,PSY106, Bio Bases Of Behavior
+2605,PSY107, Bio Bases Of Behavior (Team)
+2606,PSY190, Seminars
+2607,PSY201, Intro Stat Methods In Psy
+2608,PSY203, Practicum
+2609,PSY209, Stress And Coping
+2610,PSY212, Forensic Psychology
+2611,PSY214, Exercise And Mental Health
+2612,PSY221, Personality
+2613,PSY225, Political Psychology
+2614,PSY226, Nature/Nurture
+2615,PSY235, Human Development
+2616,PSY240, Educational Psychology
+2617,PSY252, Psychology Of Thinking
+2618,PSY257, Intro Cognitive Neurosci
+2619,PSY258, Decision Neuroscience
+2620,PSY275, Fundamentals Neurosci
+2621,PSY276, Brain And Behavior
+2622,PSY277, Inside The Disordered Brain
+2623,PSY301, Res Meth Psycholog Sci
+2624,PSY304, Child Observation
+2625,PSY306, Res Methods In Clinical Psy
+2626,PSY309, Rsrch Methods In Global Health
+2627,PSY313, Contemporary Neurosci Methods
+2628,PSY316, Clinical Issues For Lgbtq
+2629,PSY321, Personality/Indiv Diff
+2630,PSY322, Freud And Sexuality
+2631,PSY323, Fund. Of Global Mental Health
+2632,PSY325, Social Development
+2633,PSY375, Functional Neuroanatomy
+2634,PSY393, Research Independent Study
+2635,PSY410, Community Interventn Research
+2636,PSY425, Psych Of Consumers
+2637,PSY426, Social Psychology Of Business
+2638,PSY461, Neurobio Learning/Memory
+2639,PSY474, Bio Psych Of Human Devel
+2640,PSY493, Research Independent Study
+2641,PSY510, Developmental Psychopathology
+2642,PSY575, Brain And Language
+2643,PSY601, Psychology Teaching Seminar
+2644,PSY611, Global Mental Health
+2645,PSY627, Stereotypes And Stigma
+2646,PSY629, Social Behav/Personality
+2647,PSY671, Eating Disorder
+2648,PSY690, Special Topics
+2649,PSY705, Adult Psychopathology
+2650,PSY716, Behavior Decision Theory
+2651,PSY718, Research Design
+2652,PSY739, Ethical Issues Research/Pract
+2653,PSY743, Clinical Practicum
+2654,PSY745, Teaching Practicum
+2655,PSY754, Clinical Assessment
+2656,PSY755, Research Practicum
+2657,PSY757, Cog Neuro Presentation I
+2658,PSY759, Principles In Cog Neuro I
+2659,PSY763, P&N First Year Seminar I
+2660,PSY766, Apply Analy Variance
+2661,PSY797, Prof Issues In Clinical Psych
+2662,PSY990, Special Readings
+2663,PSYCHTRY205, Psychiatry
+2664,PSYCHTRY221, Clin Intro Child Psychiatry
+2665,PSYCHTRY222, Geriatric Psychiatry
+2666,PSYCHTRY401, Subintern In Psychiatry
+2667,PSYCHTRY407,Psychiatry
+2668,PSYCHTRY435, Modern Psychotherapy
+2669,PSYCHTRY443, Addiction Psychiatry
+2670,PSYCHTRY445,Liaison Psych
+2671,PT601, Clinical Steps I
+2672,PT602, Body And Brain I
+2673,PT603, Applied Physiology I
+2674,PT604, Movement Sciences I
+2675,PT605, Professional Development I
+2676,PT606, Health Promo Across Lifespan
+2677,PT701, Clinical Steps Iv
+2678,PT702, Professional Communication Ii
+2679,PT703,Based Practice Ii
+2680,PT704, Musculoskeletal Patient Mgt I
+2681,PT705, Neurological Patient Mgt I
+2682,PT706, Pt Interventions Ii
+2683,PT730, Independent Study
+2684,PT801, Clincal Internship I
+2685,PT802, Clincal Internship Ii
+2686,PT901, Foreign Educated Pt Course
+2687,PUBPOL89,Year Seminar (Top)
+2688,PUBPOL110," Information, Society & Culture"
+2689,PUBPOL120, Internship
+2690,PUBPOL121, Internship
+2691,PUBPOL155, Intro To Policy Analysis
+2692,PUBPOL165, Intro To U S Health Care Systm
+2693,PUBPOL170, Doc Exper: A Video Appr
+2694,PUBPOL181, Human Rights & World Politics
+2695,PUBPOL182, Public Speaking
+2696,PUBPOL183," Medical Ethics, Aging, Eol"
+2697,PUBPOL184, Synthetic Genomics
+2698,PUBPOL185, Drugs And The Law
+2699,PUBPOL187, Globalization/Corp Citizenship
+2700,PUBPOL190, Focus Program Special Topics
+2701,PUBPOL201, Environ Policy Europe
+2702,PUBPOL216, The U.S. Border
+2703,PUBPOL218, Conflict Analysis In Africa
+2704,PUBPOL222, International Political Econ
+2705,PUBPOL225, Women In The Public Sphere
+2706,PUBPOL228, Documentary And Policy
+2707,PUBPOL231,Theory/Prac
+2708,PUBPOL242, Child Policy Research
+2709,PUBPOL243," Children, Schools And Society"
+2710,PUBPOL250," Law, Ethics & Responsibility"
+2711,PUBPOL256, Social Innovation
+2712,PUBPOL257, Shakespeare & Fin Mkts
+2713,PUBPOL260, Leadership/Policy/Change
+2714,PUBPOL271, Soc Ent In Action
+2715,PUBPOL273, Voices In Pub Pol: Spanish
+2716,PUBPOL279, Environment And Conflict
+2717,PUBPOL281, Marine Policy
+2718,PUBPOL282, Social Engineering & Movements
+2719,PUBPOL284," Denial, Faith, Reason"
+2720,PUBPOL285, Comparative Urban Politics
+2721,PUBPOL290, Selected Topics
+2722,PUBPOL301, Pol Analy Pub Pol Making
+2723,PUBPOL302, Pol Choice/Val Conflict
+2724,PUBPOL303, Microeconomic Policy Tools
+2725,PUBPOL304, Econ Of The Pub Sec
+2726,PUBPOL308, Introduction To Econometrics
+2727,PUBPOL310, Market Power And Public Policy
+2728,PUBPOL312, Arts In Ny: Thematic Approach
+2729,PUBPOL326, Racial Justice: Us & S Africa
+2730,PUBPOL327,Africa/Democracy
+2731,PUBPOL330, Global Health Ethics
+2732,PUBPOL331, Health Economics
+2733,PUBPOL335, Compar Health Care Sys
+2734,PUBPOL347, Memory Bandits
+2735,PUBPOL349, Global Environmental Politics
+2736,PUBPOL363, Performing Arts
+2737,PUBPOL365, Television Journalism
+2738,PUBPOL366, Magazine Journalism
+2739,PUBPOL367, News Writing And Reporting
+2740,PUBPOL371, News/Moral Battleground
+2741,PUBPOL372," Information, Ethics And Policy"
+2742,PUBPOL373, Intellectual Property
+2743,PUBPOL375, Public Policy Video
+2744,PUBPOL377, Medicine And Documentary Photo
+2745,PUBPOL380, Politics Of Food
+2746,PUBPOL387, Documenting Black Experiences
+2747,PUBPOL390,Adm St Abr: Adv Top
+2748,PUBPOL391, Independent Study
+2749,PUBPOL393, Research Independent Study
+2750,PUBPOL409, Leadership In Int'L Relations
+2751,PUBPOL410, Policy Journalism/Media St
+2752,PUBPOL411, Historicizing Whiteness
+2753,PUBPOL415, Adaptive Leadership
+2754,PUBPOL445, Marine Climate Change
+2755,PUBPOL450, Glasgow Seminar
+2756,PUBPOL490, Capstone Sem: Sp Top
+2757,PUBPOL494, Honors Proj Research Ind Study
+2758,PUBPOL495, Honors Seminar
+2759,PUBPOL496, Honors Seminar
+2760,PUBPOL501, American Grand Strategy
+2761,PUBPOL505, Natl Security Decision Making
+2762,PUBPOL506, Politics Of Us Foreign Policy
+2763,PUBPOL560, Philanthropic Fdn And Pub Pol
+2764,PUBPOL561, 9/11: Causes/Response/Strategy
+2765,PUBPOL576, Resource & Environ Econ I
+2766,PUBPOL578, Land Use Principles/Pol
+2767,PUBPOL579, Collective Action
+2768,PUBPOL580, Water Coop/Conflict
+2769,PUBPOL582, Environ Health: Econ And Polic
+2770,PUBPOL584, Resource & Environ Econ Ii
+2771,PUBPOL590, Adv Top In Public Policy
+2772,PUBPOL596, Evaluation Public Expenditures
+2773,PUBPOL598, Econ Growth & Dev Policy
+2774,PUBPOL606, Macroeconomic Policy
+2775,PUBPOL645, Global Inequality Research
+2776,PUBPOL700, Policy Analysis Of Development
+2777,PUBPOL701, Economic Foundations For Dev
+2778,PUBPOL704, Master'S Project Preparation
+2779,PUBPOL705, Master'S Project I D P
+2780,PUBPOL707, Capacity Development
+2781,PUBPOL711, Pub Pol Writing Practicum
+2782,PUBPOL723, Poverty Reduct & Intl Fin Inst
+2783,PUBPOL724, Politics Of International Aid
+2784,PUBPOL741, Emp Analysis For Econ Dev
+2785,PUBPOL761, Human Rights And Conflict
+2786,PUBPOL770, Pub Fin In Dev/Emerging Econs
+2787,PUBPOL776, Public Budgeting And Fin Admin
+2788,PUBPOL779, Sales And Value Added Tax Law
+2789,PUBPOL786, Resrch In Intrnl Dev Policy
+2790,PUBPOL789,Seminars In Idp
+2791,PUBPOL790, Special Topics In Idp
+2792,PUBPOL792, Special Readings
+2793,PUBPOL803, Policy Analysis I
+2794,PUBPOL807, Master'S Project I
+2795,PUBPOL810, Micro Eco/Pub Pol Making
+2796,PUBPOL811, Microeco: Policy Appl
+2797,PUBPOL812, Statistics For Policy Makers
+2798,PUBPOL814, Politics Policy Process
+2799,PUBPOL816,Making
+2800,PUBPOL820, Globalization/Governance
+2801,PUBPOL822, Advanced Econometrics I
+2802,PUBPOL825, Topics In Health Policy
+2803,PUBPOL829, Hertie Study Abroad (Top)
+2804,PUBPOL830, Special Topics In Management
+2805,PUBPOL840, Demographic Measures/Concepts
+2806,PUBPOL849, Marine Policy
+2807,PUBPOL850, Social Policy
+2808,PUBPOL890, Special Topics
+2809,PUBPOL901, Pol. Econ. Of Pubpol
+2810,PUBPOL904, Policy Eval With Data
+2811,PUBPOL907, Phd Student Graduate Seminar
+2812,PUBPOL908, Dissertation Proposal Sem I
+2813,RADIOL205, Radiology
+2814,RADIOL402, Breast Imaging
+2815,RADIOL403, Genitourinary Imaging
+2816,RADIOL404, Vascular Intervent Radiol
+2817,RADIOL420, Pediatric Radiology
+2818,RADIOL421, Clerkship Neuroradiology
+2819,RADIOL429, Basic Rad Clerkship
+2820,RADIOL437, Musculoskeletal Imaging
+2821,RADONC220, Clinical Radiation/Oncology
+2822,RADONC415, Clin Radiation Oncology
+2823,REG100, Registration/Study Away
+2824,REG610, Law Domestic Study Away
+2825,RELIGION89,Year Seminar (Top)
+2826,RELIGION120, Buddhism
+2827,RELIGION145, Old Testament/Heb Bible
+2828,RELIGION155, The New Testament
+2829,RELIGION190, Focus Seminars (Top)
+2830,RELIGION232, Prophecy And Prophets
+2831,RELIGION245, Music In East Asia
+2832,RELIGION268, Religion And Film
+2833,RELIGION270, Black Gods And Kings
+2834,RELIGION279, Gandhi: Image And Reflection
+2835,RELIGION283, History And Culture Of Iran
+2836,RELIGION288, Acts Of Engagement
+2837,RELIGION323, Buddhist Meditation
+2838,RELIGION326, Literary Islam
+2839,RELIGION330, Atheism And Buddhism
+2840,RELIGION353, Ethical Iss Early Christianity
+2841,RELIGION373,Ind/East
+2842,RELIGION384, Islam In The Americas
+2843,RELIGION399, Toni Morrison
+2844,RELIGION411, North Korea
+2845,RELIGION493, Honors Research
+2846,RELIGION620, Exegesis Hebrew O T
+2847,RELIGION635, John'S Gospel
+2848,RELIGION709, The Septuagint
+2849,RELIGION710, Readings In Judaica
+2850,RELIGION767, How Blackness Thinks
+2851,RELIGION768, Most Segregated Hour
+2852,RELIGION780, Xtian Movement: China
+2853,RELIGION783, The Case For East Asia
+2854,RELIGION854, Social Org Of American Rel
+2855,RELIGION911, Religious Material Culture
+2856,RELIGION912, Theorizing Religion
+2857,RELIGION935, John'S Gospel
+2858,RELIGION947, Comparative Religious Studies
+2859,RELIGION996, Teaching In Religion
+2860,RELIGION999, Special Readings
+2861,RESEARCH1, Research
+2862,ROMST89, First Year Seminar Romance St
+2863,ROMST190, Topics In Romance Studies
+2864,ROMST206, Modern European Short Fiction
+2865,ROMST256, Italian Baroque Art
+2866,ROMST290, Topics In Romance Studies
+2867,ROMST393, Research Independent Study
+2868,ROMST395, Health Humanities Lab Tutorial
+2869,ROMST590, Sem Romance Studies(Top)
+2870,ROMST700, Teaching Foreign Lang
+2871,ROMST791, Independent Study
+2872,RROMP301," Radiol, Radonc, & Med Physics"
+2873,RUSSIAN89,Year Seminar (Top)
+2874,RUSSIAN101, Elementary Russian I
+2875,RUSSIAN121," Medical Ethics, Aging, Eol"
+2876,RUSSIAN190, Special Topics
+2877,RUSSIAN203, Intermediate Russian I
+2878,RUSSIAN205, Inter Russian Conversation
+2879,RUSSIAN216, Neuroscience / Human Language
+2880,RUSSIAN221, Rus Lang St Petersburg
+2881,RUSSIAN222, Language/Culture/Myth
+2882,RUSSIAN223, Contem Russian Media
+2883,RUSSIAN276, Russian Cultural History
+2884,RUSSIAN301, Contem Russian Comp/Read
+2885,RUSSIAN327, Chekhov
+2886,RUSSIAN340, Reading Chekhov In Russian
+2887,RUSSIAN356, The Russian Empire
+2888,RUSSIAN401, Advanced Russian
+2889,RUSSIAN410, Leadership In Int'L Relations
+2890,RUSSIAN433, Soviet Life Through The Camera
+2891,RUSSIAN481, Living/Dying/Healing In Russia
+2892,RUSSIAN551, Stylistics/Conversation
+2893,RUSSIAN701, Elementary Russian
+2894,RUSSIAN703, Intermediate Russian
+2895,RUSSIAN705, Adv Conversation/Reading
+2896,RUSSIAN707, Advanced Russian
+2897,RUSSIAN709, Stylistics/Conversation
+2898,RUSSIAN990, Directed Readings
+2899,SBB546, Structural Bio & Biophyics Sem
+2900,SBB658, Structural Biochemistry I
+2901,SBB659, Structural Biochemistry Ii
+2902,SBB681, Physical Biochemistry
+2903,SBB682, Adv Physical Biochemistry
+2904,SCISOC112," Medical Ethics, Aging, Eol"
+2905,SCISOC153, Drugs And The Law
+2906,SCISOC165, Cryptography And Society
+2907,SCISOC189, Global Health And Progress
+2908,SCISOC195, Medical Instrumentation
+2909,SCISOC212," Law, Ethics & Responsibility"
+2910,SCISOC256, Science And Society
+2911,SES209, Geopolitics And Culture
+2912,SES215, The Politics Of Language
+2913,SES250, American Immigrant Experiences
+2914,SES356, The Russian Empire
+2915,SES375, Social Engineering & Movements
+2916,SES385, Language And Society
+2917,SES396, Language In Immigrant America
+2918,SES433, Soviet Life Through The Camera
+2919,SES756,1917
+2920,SOCIOL89,Year Seminar (Top)
+2921,SOCIOL110, Sociological Inquiry
+2922,SOCIOL160, Advertising/Society: Global
+2923,SOCIOL178," Refugees, Rights, Resettlement"
+2924,SOCIOL195, Comp Appr Global Issues
+2925,SOCIOL218," Sex, Gender, And Society"
+2926,SOCIOL224, Human Development
+2927,SOCIOL250, Medical Sociology
+2928,SOCIOL255, Immigration And Health
+2929,SOCIOL264, Death And Dying
+2930,SOCIOL265, Drugs In The Us
+2931,SOCIOL271, Compar Health Care Sys
+2932,SOCIOL290, Sp Top
+2933,SOCIOL291, Independnt Study For Nonmajors
+2934,SOCIOL293,Majors
+2935,SOCIOL332, Methods Social Research
+2936,SOCIOL333, Quantitative Analysis Sociolog
+2937,SOCIOL338, Theory And Society
+2938,SOCIOL346, Asians In American Higher Educ
+2939,SOCIOL349, Sexuality And Society
+2940,SOCIOL352, Sociology Thru Photography
+2941,SOCIOL354, Getting Rich
+2942,SOCIOL355, Organizations/Management
+2943,SOCIOL358, Markets And Marketing
+2944,SOCIOL359, Entrepreneurship
+2945,SOCIOL361, Us Health Disparities
+2946,SOCIOL374, Pigging Out: Cultural Pol/Food
+2947,SOCIOL391, Independent Study
+2948,SOCIOL393, Research Independent Study
+2949,SOCIOL430, Women And The Professions
+2950,SOCIOL490, Research Seminar (Top)
+2951,SOCIOL495, Sociology Honors Seminar 1
+2952,SOCIOL642, Global Inequality Research
+2953,SOCIOL645, Citizen/Subject:Neoliberal Age
+2954,SOCIOL690, Special Topics In Sociology
+2955,SOCIOL701, Debates/Professional Concerns
+2956,SOCIOL702,Year Paper Workshop
+2957,SOCIOL710, Classical Sociological Theory
+2958,SOCIOL716, Capitalism
+2959,SOCIOL720, Logic Of Inquiry
+2960,SOCIOL722, Social Statistics I
+2961,SOCIOL776, Social Organiz Of Amer Rel
+2962,SOCIOL791, Individual Research
+2963,SOCIOL880, Special Topics In Sociology
+2964,SOCIOL890, Special Readings
+2965,SPANISH92, Culture Language Costa Rica
+2966,SPANISH101, Elementary Spanish 1
+2967,SPANISH102, Elementary Spanish 2
+2968,SPANISH111, Intensive Elem Spanish
+2969,SPANISH160, Intro To Latino/A Studies
+2970,SPANISH203, Intermediate Spanish
+2971,SPANISH204, Adv Intermediate Spanish
+2972,SPANISH271, Voices In Pub Pol: Spanish
+2973,SPANISH301, Adv Spanish Writing
+2974,SPANISH302, Advanced Spanish Grammar
+2975,SPANISH303, Intro Cultural Studies
+2976,SPANISH305, Spanish For Heritage Speakers
+2977,SPANISH306," Health, Culture, Latino Commun"
+2978,SPANISH308," Latino/A Voices In Duke, Durhm"
+2979,SPANISH313, Bridging Cultures
+2980,SPANISH314, Gastronomla De España
+2981,SPANISH327, Spanish For Freshmn/Sophomores
+2982,SPANISH331, Intro Lit Film Popular Culture
+2983,SPANISH333, Intro To Spanish Lit Ii
+2984,SPANISH335,Amer Lit
+2985,SPANISH390,Adm St Abr (Adv Top)
+2986,SPANISH393, Research Independent Study
+2987,SPANISH490, Spain: Special Topics Abroad
+2988,SPANISH493, Research Independent Study
+2989,SPANISH496, Honors Thesis
+2990,SPANISH716, Hispan Lit/Mass Cul/Theo
+2991,SPANISH791, Special Readings
+2992,SPIRIT760, Intro Christian Spirituality
+2993,STA101, Data Analy/Stat Infer
+2994,STA102, Intro Biostatistics
+2995,STA110, Special Topics
+2996,STA111, Probability/Stat Infer
+2997,STA112, Data Science
+2998,STA130, Probabil/Statis In Egr
+2999,STA210, Regression Analysis
+3000,STA230, Probability
+3001,STA231, Advanced Intro Probability
+3002,STA250, Statistics
+3003,STA321, Statistics Of Surveys
+3004,STA340, Statistical Decision Analysis
+3005,STA360, Bayesian And Modern Statistics
+3006,STA393, Research Independent Study
+3007,STA440, Case Studies
+3008,STA470, Intro Statistical Consulting
+3009,STA493, Research Independent Study
+3010,STA502, Bayesian Inference & Dec
+3011,STA523, Statistical Programming
+3012,STA561, Probabilistic Machine Learning
+3013,STA563, Information Theory
+3014,STA581, Statistical Science Proseminar
+3015,STA601, Bayesian And Modern Statistics
+3016,STA611, Intro To Mathematical Stat
+3017,STA621, Applied Stochastic Proc
+3018,STA623, Stat Decision Theory
+3019,STA701, Rdgs Statistical Science
+3020,STA711, Probabil/Measure Theory
+3021,STA721, Linear Models
+3022,STA790, Special Topics
+3023,STA841, Categorical Data
+3024,STA851, Stat Consulting Workshop
+3025,STA863, Advanced Statistical Computing
+3026,STA942, Time Series/Forecasting
+3027,STA944, Spatial Statistics
+3028,STA993, Independent Study
+3029,STDYAWAY410,Mural Clinical
+3030,STDYAWAY411, Study Away At Unc
+3031,STDYAWAY421, Study Away At Wfu
+3032,STDYAWAY431, Study Away At Ecu
+3033,STRATEGY557, Principles Of Strategy
+3034,STRATEGY627, Bus Stratgy For Sustainability
+3035,STRATEGY835, Foundations Of Strategy
+3036,STRATEGY836, Global Institutions & Environ
+3037,STRATEGY838, Entrepreneurial Strategy
+3038,STRATEGY840, Emerging Markets Strategy
+3039,STRATEGY841, Strategy Implementation
+3040,STRATEGY848, Nv1: Opportunity Evaluation
+3041,STRATEGY851, Nv 3: Operating Plan 1
+3042,STRATEGY852, Nv 3: Operating Plan 2
+3043,SURGERY205, Surgery
+3044,SURGERY221, Surgl Trtmnt Head & Neck
+3045,SURGERY223, Cosmesis To Reconstructn
+3046,SURGERY224, Surgical Critical Care
+3047,SURGERY225, Modern Gen.Thoracic Surgery
+3048,SURGERY226, Modern Cardiac Surgery
+3049,SURGERY227, Urology
+3050,SURGERY229, Emergency Medicine
+3051,SURGERY230, Trauma & Acute Care Surgery
+3052,SURGERY231, Essentials Of Ped Surgery
+3053,SURGERY232, Intro To Endocrine Surgery
+3054,SURGERY401, Adv Surgical Clerkship
+3055,SURGERY402, Emergency Medicine Subintern
+3056,SURGERY403,I Plas Surg Int Program
+3057,SURGERY406, Endocrine Surgery
+3058,SURGERY412, Emergency Medicine
+3059,SURGERY420, Gen Surgical Oncology
+3060,SURGERY423, Adv Sur Cardiovas Thor
+3061,SURGERY426, Adv Clerk Pediatric Sur
+3062,SURGERY439, Clinical Otolaryngology
+3063,SURGERY441, Subi Surgical Intensive Care
+3064,SURGERY443, Trauma Service
+3065,SURGERY444, Intro Plas Rec Max Sur
+3066,SURGERY448, Subi In Ohns
+3067,SURGERY451, Subi In Urologic Surgery
+3068,SXL190, Seminars Selected Topics
+3069,SXL199, Study Of Sexualities
+3070,SXL229, Sexuality And Society
+3071,SXL235, Clinical Issues For Lgbtq
+3072,SXL264," Race, Gender, And Sexuality"
+3073,SXL278, Nature/Nurture
+3074,SXL310, Freud And Sexuality
+3075,THEATRST98, Basic Acting
+3076,THEATRST115, The Theater Today
+3077,THEATRST145, Acting
+3078,THEATRST190, Sp Top: Reading Theater
+3079,THEATRST202, Intro To Performance Studies
+3080,THEATRST209, Musical Theatre/Dramatic Forms
+3081,THEATRST213, Arts In Ny: Thematic Approach
+3082,THEATRST214, Internship In Ny
+3083,THEATRST242, Improvisation
+3084,THEATRST248, Natural Voice: Vocal Presence
+3085,THEATRST262, Scene Design
+3086,THEATRST278, Intro To Film Studies
+3087,THEATRST280, Dramatic Writing
+3088,THEATRST285, Writing The Tv Drama Series
+3089,THEATRST290, Theater Study Workshop (Top)
+3090,THEATRST311, Performing Arts
+3091,THEATRST322, Chekhov
+3092,THEATRST336, Shakespeare Before 1600
+3093,THEATRST345, Adv Acting: Contemporary
+3094,THEATRST350, Mainstage Production
+3095,THEATRST370, Moving Image Practice
+3096,THEATRST495, Senior Distinction Project
+3097,THEATRST620,Makers
+3098,THESIS301, Thesis
+3099,TIBETAN101, Elementary Tibetan I
+3100,TIBETAN301, Advanced Modern Tibetan I
+3101,TIBETAN701, Elementary Tibetan I
+3102,TIBETAN703, Intermediate Tibetan I
+3103,TURKISH101, Elementary Turkish
+3104,TURKISH203, Intermediate Turkish
+3105,TURKISH301, Contemp Turkish Comp/Readings
+3106,UPE701, Eco Perspectives: Indiv/Cmty
+3107,UPE703, Ecology Seminar
+3108,UPGEN658, Structural Biochemistry I
+3109,UPGEN659, Structural Biochemistry Ii
+3110,UPGEN701, Genetics & Genomics (Adv Top)
+3111,UPGEN702, Scientific Writing
+3112,UPGEN711, Graduate School 101
+3113,UPGEN712, Succeeding Beyond Grad School
+3114,UPGEN716, Research
+3115,UPGEN750, Genetics Colloquium
+3116,UPGEN778, Genetic Solutns Biol Problems
+3117,VMS89,Year Seminar
+3118,VMS103, Traditions In Doc Studies
+3119,VMS106, Doc Exper: A Video Appr
+3120,VMS115, Intro To B&W Photography
+3121,VMS131, Experimental Drawing
+3122,VMS170, Advertising/Society: Global
+3123,VMS202, Introduction To Visual Culture
+3124,VMS204, Medicine And Documentary Photo
+3125,VMS205, Intro To Performance Studies
+3126,VMS206, Digital Imaging
+3127,VMS212, Digital Documentary Photo
+3128,VMS218, Sociology Thru Photography
+3129,VMS221, Printmaking: Silkscreen
+3130,VMS227, Color Photography
+3131,VMS231, Indian Cinema
+3132,VMS232, Japanese Cinema
+3133,VMS234, World Of Korean Cinema
+3134,VMS236, Contemp Japanese Vis Culture
+3135,VMS242, History Of Art Markets
+3136,VMS247, Global Culture
+3137,VMS259, Arts In Ny: Thematic Approach
+3138,VMS261, Moving Image Practice
+3139,VMS265, History Of Documentary Film
+3140,VMS267, Film Genres
+3141,VMS271, Film Animation Production
+3142,VMS274," Race, Genomics, And Society"
+3143,VMS282, Film Noir
+3144,VMS288,Based Multimedia Communic
+3145,VMS289, Intro To Film Studies
+3146,VMS290, Topics In Visual Studies
+3147,VMS293, Research Independent Study
+3148,VMS296, Internship In Ny
+3149,VMS301, The Business Of Art And Media
+3150,VMS302, Philosophy Of Mind
+3151,VMS305, Television Journalism
+3152,VMS306, Magazine Journalism
+3153,VMS307, News Writing And Reporting
+3154,VMS311, Comics/Culture: Images
+3155,VMS320, Contem Russian Media
+3156,VMS323, Social Movements/Social Media
+3157,VMS324," Hashtags Memes,Digital Tribes"
+3158,VMS325, Optics And Photonics
+3159,VMS326, Unity 3D Prog./Int. Design
+3160,VMS332, Virtual Museums
+3161,VMS339, Graphic Novels
+3162,VMS340, Images Of Black Masculinity
+3163,VMS350, The Photobook
+3164,VMS362, 16Mm Film Production
+3165,VMS364, Web Design And Narrative
+3166,VMS365, The Documentary Turn
+3167,VMS369, Advanced Multimedia Production
+3168,VMS390,Adm St Abr: Adv Top
+3169,VMS391, Independent Study
+3170,VMS392, Independent Study
+3171,VMS393, Research Independent Study
+3172,VMS394, Research Independent Study
+3173,VMS416, Interethnic Intimacies
+3174,VMS435, Soviet Life Through The Camera
+3175,VMS439, Queer China
+3176,VMS491, Independent Study
+3177,VMS492, Independent Study
+3178,VMS493, Research Independent Study
+3179,VMS494, Research Independent Study
+3180,VMS497, Advanced Visual Practice
+3181,VMS515, Interethnic Intimacies
+3182,VMS539, Queer China
+3183,VMS580, Hist & Cult Viz Proseminar 1
+3184,VMS590, Topics In Visual Studies
+3185,VMS622,Makers
+3186,VMS631, Modern Chinese Cinema
+3187,VMS650, Black Camera
+3188,VMS691, Independent Study
+3189,VMS692, Independent Study
+3190,VMS713, Comp Media Studio
+3191,VMS793, Independent Study
+3192,WRITING90, U.S. Academic Writing For Efl
+3193,WRITING101, Academic Writing
+3194,WRITING230, Writing Across Cultures
+3195,WRITING255," Literacy, Writing, Tutoring"
+3196,WRITING293, Research Independent Study
+3197,WXTIAN806, Contextualization Of Gospel
+3198,WXTIAN813, Xtian Movement: China
+3199,WXTIAN816, The Case For East Asia
+3200,WXTIAN999, Directed Study
+3201,XTIANEDU760,Edu Christians
+3202,XTIANEDU761, Form Xtian Adoles Ident
+3203,XTIANEDU999, Directed Study
+3204,XTIANETH760, Sexuality: Bible And Church
+3205,XTIANETH761, Healing Arts
+3206,XTIANETH810, S Kierkegaard
+3207,XTIANETH813," Listen, Organize, Act"
+3208,XTIANETH814, Christianity & Capitalism
+3209,XTIANETH990, Topics In Christian Ethics
+3210,XTIANETH999, Directed Study
+3211,XTIANPRC701, Spiritual Formation Seminar
+3212,XTIANSTU705, Inhabiting The Christian Drama
+3213,XTIANTHE755, Christian Theology
+3214,XTIANTHE760, The Free Church
+3215,XTIANTHE790, Topics In Theology
+3216,XTIANTHE806, Christ And Cultural Studies
+3217,XTIANTHE808, Feminist Theology
+3218,XTIANTHE816, Doctrine Of The Trinity
+3219,XTIANTHE820, Theology/Ethics Of Bonhoeffer
+3220,XTIANTHE890, Theological Topics
+3221,XTIANTHE904, Theology Of Christian Leadersh
+3222,XTIANTHE950, Thd Sem: Explor In Pract Theo
+3223,XTIANTHE999, Directed Study
