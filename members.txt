@@ -1,9 +1,9 @@
-David Kohler (dk194) 5/5 effort. Worked on designing and implementing the frontend web page. Helped compile the doc. 
+David Kohler (dk194) 5/5 effort. Along with Karen, took point on the frontend implementation. Set up the framework and functionality for the Account and Home pages. Designed the overall layout of the application. Since the last check-in, he worked on fixing a bug in the account page and finished CSS styling.
 
-Michael Nicholson (man44) 5/5 effort. Updated the database table assumptions. Wrote task 5 queries. Helped compile doc.
+Michael Nicholson (man44) 5/5 effort. Took point on implementing, populating and maintaining the SQL database. Since the last check-in, populated the database with all currently offered classes from Pratt and Trinity along with their respective programs. He also took point on the final report.
 
-Siyi Xu (sx53) 5/5 effort. Set up backend with Jingchao. Connected frontend and backend.
+Siyi Xu (sx53) 5/5 effort. Worked with Jason to implement the backend and Michael to scrape data for the database. Since the last check-in, she scraped data course and program data from Pratt and Trinity and helped finalize the backend API with the frontend.
 
-Karen Ou (jo99) 5/5 effort. Set up react with a skeleton framework and hello world implmentation of front end. Helped compile doc.
+Karen Ou (jo99) 5/5 effort. The real MVP. She set up Heroku to host our frontend, backend and database and also took point with David on implementing the frontend. Since the last check-in, she set up authentication with the login and signup pages worked on the backend to frontend API.
 
-Jingchao Zhou (jz192) 5/5 effort. Set up back end with Siyi. Connected the backend and the database.
+Jingchao Zhou (jz192) 5/5 effort. Took point on the backend. He set up the Django framework and the connection between the backend and frontend. Since the last check-in, he set up the API to access the data from our database in the application.
